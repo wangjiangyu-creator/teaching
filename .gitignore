@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+.superpowers/
+__pycache__/
+*.pyc
+~$*
+data/curations.json
+data/ai-drafts.json

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "import-2026-06-05-chinese-research-methods",
+    "sourceName": "Chinese journal search: research methods and method exemplars",
+    "sourceUrl": "manual web search across Chinese law journals and journal indexes",
+    "importedAt": "2026-06-05T23:50:46+08:00",
+    "sourceCount": 35,
+    "mode": "codex-assisted-manual-web-research"
+  },
+  {
+    "id": "import-2026-06-05-notebooklm-project-documents",
+    "sourceName": "NotebookLM: Project documents",
+    "sourceUrl": "https://notebooklm.google.com/notebook/f0c9fa9c-6a5b-41c3-87c3-7830729909ce",
+    "importedAt": "2026-06-05T22:51:15+08:00",
+    "sourceCount": 1,
+    "mode": "codex-assisted-manual"
+  },
+  {
+    "id": "import-2026-06-05-legal-education",
+    "sourceName": "Google Drive: Legal education",
+    "sourceUrl": "https://drive.google.com/drive/folders/1psQwAImwJiHbb-7RVVaApZGZcAWWve38",
+    "importedAt": "2026-06-05T21:48:00+08:00",
+    "sourceCount": 28,
+    "mode": "codex-assisted-manual"
+  }
+]

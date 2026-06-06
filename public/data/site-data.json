@@ -1,0 +1,1582 @@
+{
+  "generatedAt": "2026-06-06T03:12:55.190Z",
+  "repository": {
+    "name": "teaching",
+    "pagesPath": "/teaching/",
+    "deployFolder": "public/"
+  },
+  "teachingUseLabels": {
+    "legal-education-history": "Legal education history",
+    "comparative-law-seminar": "Comparative law seminar",
+    "ai-and-law-pedagogy": "AI and law pedagogy",
+    "geopolitics-rule-of-law": "Geopolitics and rule of law",
+    "international-law-context": "International law context",
+    "curriculum-design": "Curriculum design",
+    "professional-ethics-skills": "Professional ethics and skills",
+    "taiwan-hong-kong-comparison": "Taiwan/Hong Kong comparison",
+    "china-law-theory": "Chinese legal theory",
+    "research-methods": "Research methods",
+    "method-exemplars": "Method exemplars"
+  },
+  "article": {
+    "title": "Teaching International Economic Law after Generative AI and Geoeconomic Fragmentation",
+    "subtitle": "A Source-Centered, Comparative and Simulation-Based Model for Legal Education",
+    "abstract": "Legal education is not facing a single technology problem. It is facing a double disturbance in the relation between legal knowledge, legal work and legal judgment. Generative artificial intelligence makes polished written work a less reliable proxy for the student's own research and reasoning. At the same time, geoeconomic fragmentation has changed the substance of fields such as International Economic Law (IEL), where sanctions, export controls, industrial policy, investment screening, data sovereignty, carbon border measures and supply-chain security now sit alongside the classical law of trade, investment and international finance. This article develops a reflective, source-grounded case study of the redesign of \"International Economic Law and Relations\" (LW6167E), a postgraduate course at the School of Law, City University of Hong Kong. It argues that advanced legal education should move from an \"AI-proofing\" mentality to a model of epistemic apprenticeship: students should learn how legal knowledge is produced, verified, compared, challenged and defended under contemporary conditions. The proposed \"two-lane-plus\" model combines a secure individual lane for verified doctrinal competence, an open AI-integrated lane for supervised collaborative research, and a performance lane of oral simulation and defense. The article's original contribution is to connect assessment design with the changing legal order itself. AI-resilient legal education should not merely protect academic integrity. It should train source literacy, responsible AI practice, comparative and geopolitical reasoning, and public defense of legal judgment.",
+    "keywords": [
+      "Generative AI",
+      "legal education",
+      "international economic law",
+      "Chinese law",
+      "Hong Kong legal education",
+      "geoeconomics",
+      "assessment",
+      "comparative law",
+      "source literacy",
+      "TWAIL"
+    ],
+    "sectionCount": 11,
+    "footnoteCount": 22,
+    "contributions": [
+      "Reframes generative AI as an epistemic challenge to legal assessment, not only an academic integrity problem.",
+      "Develops a legal two-lane-plus model: controlled verification, open AI-integrated research, and live professional defense.",
+      "Treats comparison as a core method for teaching International Economic Law in a geoeconomic world.",
+      "Links responsible AI use to professional ethics, source literacy, confidentiality, disclosure, and legal judgment.",
+      "Identifies source infrastructure as pedagogy: curated corpora teach students how legal knowledge is made and tested."
+    ]
+  },
+  "sources": [
+    {
+      "id": "legal-education-china-lun-kunlun",
+      "title": "Legal education in China-Lun Kunlun.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history",
+        "comparative-law-seminar",
+        "professional-ethics-skills"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Professionalization",
+        "Curriculum design"
+      ],
+      "textPreview": "Historical account of Chinese legal education from 1949 to 2013, emphasizing achievements, regional imbalance, professional education, elite formation, legal ethics, and practical skills.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "china-foreign-comparative-law-seppanen",
+      "title": "China foreign comparative law 68AmJCompL186.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China",
+        "United States",
+        "Europe"
+      ],
+      "teachingUses": [
+        "comparative-law-seminar",
+        "geopolitics-rule-of-law",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Comparative law",
+        "Chinese legal scholarship",
+        "Geopolitics and legal order"
+      ],
+      "textPreview": "Meta-comparative study of how Chinese scholars describe similarity and difference when engaging American and European law, with attention to ideological projects.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-06-04"
+    },
+    {
+      "id": "chinese-legal-scholarship-avant-garde",
+      "title": "Chinese legal scholarship 13WashUGlobalStudLRev83.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "geopolitics-rule-of-law",
+        "china-law-theory",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Chinese legal scholarship",
+        "Rule of law",
+        "Legal theory"
+      ],
+      "textPreview": "Examines Chinese avant-garde legal scholarship, ideological renewal, nostalgia, liberal rule-of-law critique, New Confucian thought, and communitarian legal theory.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-06-04"
+    },
+    {
+      "id": "legal-education-globalizing-asian",
+      "title": "legal education globalizing 2AsianJLegalEduc143.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "Asia",
+        "Global"
+      ],
+      "teachingUses": [
+        "international-law-context",
+        "comparative-law-seminar",
+        "curriculum-design"
+      ],
+      "researchThemes": [
+        "Internationalization",
+        "Legal education reform",
+        "Curriculum design"
+      ],
+      "textPreview": "Globalization-facing legal education material useful for comparing how law schools respond to transnational practice and changing professional expectations.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "legal-education-china-2006-oklahoma",
+      "title": "legal education China 2006 31OklaCityULRev293.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history",
+        "comparative-law-seminar",
+        "curriculum-design"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Professionalization"
+      ],
+      "textPreview": "English-language treatment of Chinese legal education reform in the mid-2000s, suitable for tracking the post-reform expansion of law schools.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "legal-education-china-2002-stex",
+      "title": "Legal education in China 2002 43STexLRev707.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Internationalization"
+      ],
+      "textPreview": "Earlier English assessment of legal education in China, useful as a baseline for comparing later professionalization and internationalization claims.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-06-04"
+    },
+    {
+      "id": "ji-weidong-legal-education-china",
+      "title": "Ji weidong Legal Education in China.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Chinese legal scholarship",
+        "Rule of law"
+      ],
+      "textPreview": "Scholarship associated with Ji Weidong on Chinese legal education, legal modernization, institutional reform, and the intellectual formation of Chinese law.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-05-21"
+    },
+    {
+      "id": "han-depei-legal-education-china",
+      "title": "Han depei Legal education in China 840426.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history",
+        "international-law-context"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Internationalization"
+      ],
+      "textPreview": "Older account of legal education in China, valuable for historicizing reform-era assumptions about international law, comparative method, and legal training.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-05-22"
+    },
+    {
+      "id": "legal-education-china-1986-public-law",
+      "title": "Legal education in China 1986 5PubLForum253.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history"
+      ],
+      "researchThemes": [
+        "Legal education reform"
+      ],
+      "textPreview": "Reform-era source on Chinese legal education, useful for constructing a timeline of reconstruction after the Cultural Revolution.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-04-16"
+    },
+    {
+      "id": "century-review-chinese-legal-education",
+      "title": "中國法學教育百年回眸_李龙.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history",
+        "curriculum-design",
+        "professional-ethics-skills"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Curriculum design",
+        "Professionalization"
+      ],
+      "textPreview": "Chinese article reviewing one hundred years of Chinese legal education, with attention to social change, professional education, higher education, and curriculum structure.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "where-should-chinese-law-go-part-one",
+      "title": "中國法學向何處去(上)——建构中国法律理想图景时代的论纲_邓正来.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "china-law-theory",
+        "geopolitics-rule-of-law"
+      ],
+      "researchThemes": [
+        "Chinese legal scholarship",
+        "Legal theory",
+        "Geopolitics and legal order"
+      ],
+      "textPreview": "Deng Zhenglai's argument on where Chinese law should go, useful for teaching Chinese legal theory, legal ideals, modernization, and critique of imported paradigms.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "where-should-chinese-law-go-part-two",
+      "title": "中國法學向何處去(中)——建构中国法律理想图景时代的论纲_邓正来.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "china-law-theory",
+        "geopolitics-rule-of-law"
+      ],
+      "researchThemes": [
+        "Chinese legal scholarship",
+        "Legal theory"
+      ],
+      "textPreview": "Continuation of Deng Zhenglai's Chinese jurisprudence project, helpful for comparing domestic theoretical agendas with global legal knowledge.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "chinese-legal-development-world-structure",
+      "title": "中國法學的發展與世界結構_邓正来.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China",
+        "Global"
+      ],
+      "teachingUses": [
+        "geopolitics-rule-of-law",
+        "china-law-theory",
+        "international-law-context"
+      ],
+      "researchThemes": [
+        "Chinese legal scholarship",
+        "Geopolitics and legal order",
+        "Legal theory"
+      ],
+      "textPreview": "Chinese-law theory source linking the development of Chinese jurisprudence to world structure, suitable for geopolitical framing.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "basis-of-chinese-ideal-legal-image",
+      "title": "根據中國的理想圖景——自序《中國法學向何處去》_邓正来.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Chinese legal scholarship",
+        "Legal theory"
+      ],
+      "textPreview": "Self-framing text for Deng Zhenglai's project on constructing a Chinese legal ideal image, useful as a compact entry into the larger debate.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "modernization-paradigm-review",
+      "title": "中國法學“現代化範式”之關鍵——評《中國法學向何處去》_王小钢.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "china-law-theory",
+        "geopolitics-rule-of-law"
+      ],
+      "researchThemes": [
+        "Chinese legal scholarship",
+        "Legal theory",
+        "Rule of law"
+      ],
+      "textPreview": "Review and critique of the modernization paradigm in Chinese legal scholarship, paired naturally with Deng Zhenglai materials.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "exploring-sinicization-of-legal-studies",
+      "title": "法學中國化問題探索_李芳.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "china-law-theory",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Chinese legal scholarship",
+        "Comparative law",
+        "Legal theory"
+      ],
+      "textPreview": "Chinese-language exploration of the Sinicization of legal studies, useful for contrasting localization and comparative-law approaches.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "taiwan-legal-education-development",
+      "title": "7_The_development_of_legal_education_in_Taiwan_An_analysis_of_the_history.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "Taiwan"
+      ],
+      "teachingUses": [
+        "taiwan-hong-kong-comparison",
+        "legal-education-history",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Comparative law",
+        "Curriculum design"
+      ],
+      "textPreview": "History of legal education in Taiwan, useful for comparison with mainland Chinese legal education and East Asian reform patterns.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "taiwan-legal-education-evolution",
+      "title": "TW-Legal_Education_in_Taiwan_Evo.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "Taiwan"
+      ],
+      "teachingUses": [
+        "taiwan-hong-kong-comparison",
+        "curriculum-design"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Professionalization"
+      ],
+      "textPreview": "Taiwan legal education evolution source for building comparative modules across Chinese-speaking jurisdictions.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "taiwan-jd-comparative",
+      "title": "TW JD 1AsJCLii.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "Taiwan",
+        "United States"
+      ],
+      "teachingUses": [
+        "taiwan-hong-kong-comparison",
+        "curriculum-design",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Curriculum design",
+        "Professionalization",
+        "Comparative law"
+      ],
+      "textPreview": "Source on JD-style legal education questions in Taiwan, useful for discussing professional degree transfer and legal training models.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-05-23"
+    },
+    {
+      "id": "tsinghua-legal-training-plan-2016",
+      "title": "2016级法学硕士培养方案-清华大学法学院.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "curriculum-design",
+        "professional-ethics-skills"
+      ],
+      "researchThemes": [
+        "Curriculum design",
+        "Professionalization"
+      ],
+      "textPreview": "Tsinghua law master's training plan, useful as primary curriculum material for comparing institutional program structures.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "sjtu-2018-law-training-plan",
+      "title": "SJTU 2018法学培养方案.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "curriculum-design"
+      ],
+      "researchThemes": [
+        "Curriculum design",
+        "Legal education reform"
+      ],
+      "textPreview": "Shanghai Jiao Tong University 2018 law training plan, useful as a primary document for curriculum comparison.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "excellent-legal-training-model",
+      "title": "卓越法律培养模式.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "professional-ethics-skills",
+        "curriculum-design"
+      ],
+      "researchThemes": [
+        "Professionalization",
+        "Curriculum design",
+        "Legal education reform"
+      ],
+      "textPreview": "Chinese source on excellent legal talent cultivation models, useful for professional skills and applied legal education themes.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "new-china-40-years-legal-education",
+      "title": "新中国四十年法学教育.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history"
+      ],
+      "researchThemes": [
+        "Legal education reform"
+      ],
+      "textPreview": "Historical source on four decades of legal education in the PRC, valuable for periodization and reform-era reconstruction.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "legal-education-china-70-years",
+      "title": "中国法学教育70年：发展历程、问题反思和未来展望.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "legal-education-history",
+        "professional-ethics-skills"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Professionalization"
+      ],
+      "textPreview": "Seventy-year review of Chinese legal education, with development history, problem reflection, and future outlook.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-05-21"
+    },
+    {
+      "id": "legal-education-talent-cultivation",
+      "title": "法学教育人才培养.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "professional-ethics-skills",
+        "curriculum-design"
+      ],
+      "researchThemes": [
+        "Professionalization",
+        "Curriculum design"
+      ],
+      "textPreview": "Chinese source on talent cultivation in legal education, relevant to classroom modules about skills, values, and professional formation.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-04-17"
+    },
+    {
+      "id": "legal-education-rule-of-law-1997-2017",
+      "title": "法学教育：中国依法治国二十年（1997-2017）--中国法学网.pdf",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "geopolitics-rule-of-law",
+        "legal-education-history"
+      ],
+      "researchThemes": [
+        "Rule of law",
+        "Legal education reform"
+      ],
+      "textPreview": "Source on legal education during two decades of governing the country according to law, useful for linking legal education to state legal reform.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-05-22"
+    },
+    {
+      "id": "roscoe-pound-in-china",
+      "title": "Roscoe Pound in China_ A Lost Precedent for the Liabilities of A.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "China",
+        "United States"
+      ],
+      "teachingUses": [
+        "comparative-law-seminar",
+        "international-law-context",
+        "legal-education-history"
+      ],
+      "researchThemes": [
+        "Comparative law",
+        "Internationalization",
+        "Legal theory"
+      ],
+      "textPreview": "Historical comparative-law source on Roscoe Pound in China, useful for teaching legal transplantation, American influence, and Chinese legal modernization.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-04-05"
+    },
+    {
+      "id": "key-directions-legal-education-book",
+      "title": "Key directions in legal eduation book 9780429448065_webpdf.pdf",
+      "language": "English",
+      "jurisdictions": [
+        "Global"
+      ],
+      "teachingUses": [
+        "curriculum-design",
+        "ai-and-law-pedagogy",
+        "international-law-context"
+      ],
+      "researchThemes": [
+        "Legal education reform",
+        "Curriculum design",
+        "Internationalization",
+        "AI and legal education"
+      ],
+      "textPreview": "Global legal education book for framing contemporary teaching challenges, future-facing curriculum, and technology-driven change.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2022-04-17"
+    },
+    {
+      "id": "notebooklm-project-documents-f0c9fa9c",
+      "title": "NotebookLM Project Documents",
+      "language": "English",
+      "jurisdictions": [
+        "Global",
+        "China"
+      ],
+      "teachingUses": [
+        "ai-and-law-pedagogy",
+        "comparative-law-seminar",
+        "international-law-context",
+        "geopolitics-rule-of-law"
+      ],
+      "researchThemes": [
+        "Project documents",
+        "AI and legal education",
+        "Geopolitics and legal order",
+        "Comparative law",
+        "Internationalization"
+      ],
+      "textPreview": "NotebookLM project document collection linked by the research team for source-grounded context on AI, geopolitics, comparative law, international law, and Chinese legal education. Notebook contents can be expanded after NotebookLM connector authentication.",
+      "sourceType": "NotebookLM notebook",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "liu-shuilin-legal-methodology-2001",
+      "title": "刘水林：法学方法论研究（《法学研究》2001年第3期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Legal research methods",
+        "Legal methodology",
+        "Normative and empirical analysis"
+      ],
+      "textPreview": "Foundational mainland article distinguishing methodology from particular methods and mapping positive analysis, normative analysis, individualism, and holism as legal-research categories.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "faxueyanjiu-methods-seminar-2013",
+      "title": "法学研究方法的理论与实践（《法学研究》2013年第6期笔谈）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Legal research methods",
+        "Legal dogmatics",
+        "Socio-legal studies",
+        "Law and economics"
+      ],
+      "textPreview": "A multi-author symposium on legal method after China's shift from legislation-centered reform toward implementation-centered rule-of-law questions, useful as a map of method debates.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "bai-jianjun-legal-empirical-analysis-2000",
+      "title": "白建军：论法律实证分析（《中国法学》2000年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Legal research methods",
+        "Legal implementation"
+      ],
+      "textPreview": "Early and influential article arguing that Chinese legal scholarship needs empirical analysis to study legal implementation effects, legal experience, and operational questions.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "zhao-jun-empirical-return-transcend-2013",
+      "title": "赵骏：中国法律实证研究的回归与超越（《政法论坛》2013年第2期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Normative and empirical analysis",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "Concise source on why empirical and normative analysis should interact, with attention to institutional construction, legal transplantation, and evaluation of legal application.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "cheng-jinhua-contemporary-empirical-2015",
+      "title": "程金华：当代中国的法律实证研究（《中国法学》2015年第6期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Legal research methods",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "Uses legal-periodical and research-project data to describe the emergence, distribution, and limits of empirical legal research in contemporary China.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "lei-xinhong-methodological-evolution-2017",
+      "title": "雷鑫洪：方法论演进视野下的中国法律实证研究（《法学研究》2017年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Legal research methods",
+        "Methodological evolution"
+      ],
+      "textPreview": "Tracks Chinese empirical legal research through methodology change, including core-journal publication patterns and the transformation of criminal procedure research methods.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "zuo-weimin-empirical-paradigm-2017",
+      "title": "左卫民：实证研究是中国法学的一场范式革命吗？",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Quantitative legal studies",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "Important argument for treating data-based empirical legal research as a distinct and increasingly influential Chinese legal-research paradigm.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "chen-baifeng-rise-differentiation-2018",
+      "title": "陈柏峰：法律实证研究的兴起与分化（《中国法学》2018年第3期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Socio-legal studies",
+        "Fieldwork and case study"
+      ],
+      "textPreview": "Historicizes China's empirical legal research and explains the differentiation between quantitative empirical legal research and qualitative legal-experience research.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "zhang-cheng-method-coordinate-2018",
+      "title": "张永健、程金华：法律实证研究的方法坐标（《中国法律评论》2018年第6期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China",
+        "Taiwan"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Socio-legal studies",
+        "Legal dogmatics",
+        "Research design"
+      ],
+      "textPreview": "A central map for teaching legal empirical research: defines qualitative and quantitative empirical legal studies and places them relative to doctrinal and socio-legal methods.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "cheng-jinhua-scientific-empirical-2018",
+      "title": "程金华：迈向科学的法律实证研究（《清华法学》2018年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Research design",
+        "Quantitative legal studies"
+      ],
+      "textPreview": "Methodological intervention on making empirical legal research more scientific while guarding against over-technical or poorly theorized statistical work.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "miao-yinzhi-quantitation-cases-2014",
+      "title": "缪因知：计量与案例：法律实证研究方法的细剖析（《北方法学》2014年第3期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Quantitative legal studies",
+        "Case study methods"
+      ],
+      "textPreview": "Breaks empirical legal research into quantitative research and case research, then compares subtypes and their strengths and limits.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "liu-zhuang-experimental-method-2018",
+      "title": "刘庄：法学中的实验方法（《中国法律评论》2018年第6期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China",
+        "Hong Kong"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Legal cognition and experiments",
+        "Empirical legal studies",
+        "Research design"
+      ],
+      "textPreview": "Introduces experimental methods as a legal-research tool, suitable for teaching how causal questions about legal reasoning and legal decision-making can be tested.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "he-ting-judgment-documents-methodology-2022",
+      "title": "何挺：法学研究中裁判文书运用的方法论检讨（《法学研究》2022年第3期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars"
+      ],
+      "researchThemes": [
+        "Judicial data and big data",
+        "Empirical legal studies",
+        "Content analysis",
+        "Criminal justice"
+      ],
+      "textPreview": "Uses content analysis of criminal-law scholarship to critique how researchers collect, sample, report, and interpret judgment-document data.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "hou-meng-empirical-packaging-2020",
+      "title": "侯猛：实证包装法学？法律的实证研究在中国（《中国法律评论》2020年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Socio-legal studies",
+        "Methodological critique"
+      ],
+      "textPreview": "A cautionary source for distinguishing genuine empirical legal research from merely labeling conventional legal arguments as empirical.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "peng-xiaolong-theory-empirical-2022",
+      "title": "彭小龙：法实证研究中的理论问题（《法制与社会发展》2022年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Socio-legal theory",
+        "Research design"
+      ],
+      "textPreview": "Explains why empirical legal research still needs theory: analytical frameworks connect legal concepts, social facts, and causal explanations.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "xiong-bingwan-wang-junle-judgment-data-method-2023",
+      "title": "熊丙万、王军乐：基于裁判文书数据的法实证研究方法（《经贸法律评论》2023年第6期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars"
+      ],
+      "researchThemes": [
+        "Judicial data and big data",
+        "Empirical legal studies",
+        "Machine learning",
+        "Consumer law"
+      ],
+      "textPreview": "Uses the知假买假 problem to show how legal questions can be translated into information extraction, data quality assessment, and cautious empirical inference from judgments.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "xiong-moulin-concept-empirical-law-2024",
+      "title": "熊谋林：实证法学的概念术语回顾与回归（《湖湘法学评论》2024年第1期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Quantitative legal studies",
+        "Computational law",
+        "Methodological critique"
+      ],
+      "textPreview": "Reconstructs the terminology around empirical, quantitative, computational, data, and digital legal studies, arguing for conceptual integration around实证法学.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "cn-foreign-empirical-legal-analysis-2025",
+      "title": "中外实证法律分析之不同：研究范畴与知识基础（《山东大学学报》2025年第3期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China",
+        "Global"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Comparative law methodology",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "Recent comparison of Chinese and international empirical legal analysis, useful for discussing differences in research scope, knowledge base, and evidence-oriented reasoning.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "wang-zhang-normative-significance-2015",
+      "title": "王鹏翔、张永健：经验面向的规范意义（《中研院法学期刊》2015年第17期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "Taiwan"
+      ],
+      "teachingUses": [
+        "research-methods"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Legal dogmatics",
+        "Causal inference",
+        "Normative and empirical analysis"
+      ],
+      "textPreview": "A major Chinese-language account of how empirical facts can matter to doctrinal and normative argument, especially through causal inference and effectiveness analysis.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "zhang-yongjian-empirical-comparative-2022",
+      "title": "张永健：法实证研究方法论：实证比较法的五种取径（《月旦法学杂志》2022年第326期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "Taiwan"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Comparative law methodology",
+        "Causal inference"
+      ],
+      "textPreview": "Introduces five approaches to empirical comparative law, including empirical comparison of legal norms, institutional outcomes, reverse comparative law, and causal support for comparative claims.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "wu-yilong-sociolegal-normativity-2022",
+      "title": "吴义龙：社科法学如何处理规范性问题？（《中外法学》2022年第6期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Socio-legal studies",
+        "Legal dogmatics",
+        "Normative and empirical analysis"
+      ],
+      "textPreview": "Clarifies how socio-legal research can handle normativity, making it useful for teaching the boundary and cooperation between facts, values, and doctrinal reasoning.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "he-jian-dogmatics-peak-2017",
+      "title": "贺剑：法教义学的巅峰：德国法律评注文化及其中国前景考察（《中外法学》2017年第2期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China",
+        "Germany"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Legal dogmatics",
+        "Comparative law methodology",
+        "Legal commentary",
+        "Legal research methods"
+      ],
+      "textPreview": "Uses German legal-commentary culture to explain legal dogmatics as a method, source genre, and bridge between scholarship, adjudication, legislation, and legal education.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "chen-xingliang-criminal-dogmatics-method-2005",
+      "title": "陈兴良：刑法教义学方法论（《法学研究》2005年第2期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Legal dogmatics",
+        "Criminal law methodology",
+        "Legal interpretation"
+      ],
+      "textPreview": "Classic department-law methodology article for teaching doctrinal reasoning, legal interpretation, and the internal method of criminal-law scholarship.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "li-sheng-practical-sociolegal-2014",
+      "title": "李晟：实践视角下的社科法学：以法教义学为对照",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Socio-legal studies",
+        "Legal dogmatics",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "Useful bridge text for teaching socio-legal inquiry as a practice-oriented method contrasted with but not wholly opposed to legal dogmatics.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "hou-meng-sociolegal-tradition-challenge-2014",
+      "title": "侯猛：社科法学的传统与挑战（《法商研究》2014年第5期相关文本）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Socio-legal studies",
+        "Legal dogmatics",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "Explains socio-legal studies as a social-science method of analyzing legal problems and places it in the Chinese debate with doctrinal scholarship.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "suli-basic-judiciary-method-2000",
+      "title": "苏力：为什么研究中国基层司法制度：送法下乡导论（《法商研究》2000年第3期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Fieldwork and case study",
+        "Socio-legal studies",
+        "Legal education reform",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "A classic exemplar of bringing field observation, institutional detail, and social-science concepts into Chinese legal research on grassroots courts.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "qiang-shigong-law-practice-village",
+      "title": "强世功：法律是如何实践的？一起乡村民事调解案的分析",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars",
+        "china-law-theory"
+      ],
+      "researchThemes": [
+        "Fieldwork and case study",
+        "Socio-legal studies",
+        "Dispute resolution",
+        "Chinese legal scholarship"
+      ],
+      "textPreview": "A close reading of a rural civil mediation process, useful as a concrete model for process-event analysis, legal pluralism, and law-in-action teaching.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "cheng-jinhua-lawyers-politics-2013",
+      "title": "程金华：法律人从政：合理性分析及其验证（《中外法学》2013年第1期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China",
+        "Global"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Comparative law methodology",
+        "Legal profession",
+        "Legal education reform"
+      ],
+      "textPreview": "A useful quantitative-comparative example that tests claims about lawyers in politics using OECD leadership-background data and performance indicators.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "cheng-jinhua-procurators-survey-2015",
+      "title": "程金华：检察人员对分类管理改革的立场：以问卷调查为基础（《法学研究》2015年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars",
+        "professional-ethics-skills"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Survey research",
+        "Judicial reform",
+        "Legal profession"
+      ],
+      "textPreview": "Questionnaire-based study of 1,748 prosecutors across seven provinces and cities, useful for teaching survey design, stakeholder analysis, and reform evaluation.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "ma-he-yu-judicial-documents-report-2016",
+      "title": "大数据分析：中国司法裁判文书上网公开报告（《中国法律评论》2016年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars"
+      ],
+      "researchThemes": [
+        "Judicial data and big data",
+        "Empirical legal studies",
+        "Judicial transparency",
+        "Research design"
+      ],
+      "textPreview": "Large-scale report on China Judgments Online, combining data extraction, database construction, quantitative assessment, and field interviews about judicial transparency.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "tang-yingmao-judicial-transparency-2018",
+      "title": "唐应茂：司法公开及其决定因素：基于中国裁判文书网的数据分析（《清华法学》2018年第4期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars"
+      ],
+      "researchThemes": [
+        "Judicial data and big data",
+        "Empirical legal studies",
+        "Judicial transparency",
+        "Regression and causal inference"
+      ],
+      "textPreview": "Uses China Judgments Online data to study provincial publication rates and determinants of judicial transparency, including authority, marketization, and public trust.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "tang-yingmao-leadership-capacity-2018",
+      "title": "唐应茂：领导意愿、机构能力和司法公开（《中国法律评论》2018年第6期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars"
+      ],
+      "researchThemes": [
+        "Judicial data and big data",
+        "Empirical legal studies",
+        "Judicial transparency",
+        "Institutional analysis"
+      ],
+      "textPreview": "Focused empirical study of Beijing, Shanghai, and Guangdong court-opinion publication rates, useful for teaching how leadership incentives and institutional capacity become variables.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "li-xueyao-liu-zhuang-rationalization-2022",
+      "title": "李学尧、刘庄：矫饰的技术：司法说理与判决中的偏见（《中国法律评论》2022年第2期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "China",
+        "Hong Kong"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars"
+      ],
+      "researchThemes": [
+        "Legal cognition and experiments",
+        "Empirical legal studies",
+        "Judicial reasoning",
+        "Legal interpretation"
+      ],
+      "textPreview": "Experimental legal-cognition exemplar examining how legal reasoning can mask judicial bias, good for teaching variables, experimental design, and doctrinal implications.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "su-kaiping-commutation-policy-2016",
+      "title": "苏凯平：再访法实证研究概念与价值：以简单量化方法研究我国减刑政策为例（《台大法学论丛》2016年第45卷第3期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "Taiwan"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars"
+      ],
+      "researchThemes": [
+        "Empirical legal studies",
+        "Quantitative legal studies",
+        "Criminal justice",
+        "Policy evaluation"
+      ],
+      "textPreview": "Demonstrates how simple descriptive statistics can uncover legally important facts about commutation policy and make empirical legal research accessible.",
+      "sourceType": "Source",
+      "updatedAtLabel": "2026-06-05"
+    },
+    {
+      "id": "zhang-yongjian-double-causal-comparative-2024",
+      "title": "张永健：比较法作为双重因果推理：以修正民事诉讼法影响和解率的实证研究为例（《中研院法学期刊》2024年第34期）",
+      "language": "Chinese",
+      "jurisdictions": [
+        "Taiwan",
+        "Japan",
+        "Germany"
+      ],
+      "teachingUses": [
+        "research-methods",
+        "method-exemplars",
+        "comparative-law-seminar"
+      ],
+      "researchThemes": [
+        "Comparative law methodology",
+        "Empirical legal studies",
+        "Causal inference",
+        "Civil procedure"
+      ],
+      "textPreview": "Strong exemplar for combining comparative law, legal-economic theory, and empirical causal reasoning through settlement-rate changes after civil-procedure reforms.",
+      "sourceType": "PDF",
+      "updatedAtLabel": "2026-06-05"
+    }
+  ],
+  "imports": [
+    {
+      "id": "import-2026-06-05-chinese-research-methods",
+      "sourceName": "Chinese journal search: research methods and method exemplars",
+      "importedAt": "2026-06-05T23:50:46+08:00",
+      "sourceCount": 35,
+      "mode": "codex-assisted-manual-web-research"
+    },
+    {
+      "id": "import-2026-06-05-notebooklm-project-documents",
+      "sourceName": "NotebookLM: Project documents",
+      "importedAt": "2026-06-05T22:51:15+08:00",
+      "sourceCount": 1,
+      "mode": "codex-assisted-manual"
+    },
+    {
+      "id": "import-2026-06-05-legal-education",
+      "sourceName": "Google Drive: Legal education",
+      "importedAt": "2026-06-05T21:48:00+08:00",
+      "sourceCount": 28,
+      "mode": "codex-assisted-manual"
+    }
+  ],
+  "options": {
+    "teachingUses": [
+      {
+        "id": "legal-education-history",
+        "label": "Legal education history"
+      },
+      {
+        "id": "comparative-law-seminar",
+        "label": "Comparative law seminar"
+      },
+      {
+        "id": "ai-and-law-pedagogy",
+        "label": "AI and law pedagogy"
+      },
+      {
+        "id": "geopolitics-rule-of-law",
+        "label": "Geopolitics and rule of law"
+      },
+      {
+        "id": "international-law-context",
+        "label": "International law context"
+      },
+      {
+        "id": "curriculum-design",
+        "label": "Curriculum design"
+      },
+      {
+        "id": "professional-ethics-skills",
+        "label": "Professional ethics and skills"
+      },
+      {
+        "id": "taiwan-hong-kong-comparison",
+        "label": "Taiwan/Hong Kong comparison"
+      },
+      {
+        "id": "china-law-theory",
+        "label": "Chinese legal theory"
+      },
+      {
+        "id": "research-methods",
+        "label": "Research methods"
+      },
+      {
+        "id": "method-exemplars",
+        "label": "Method exemplars"
+      }
+    ],
+    "jurisdictions": [
+      "Asia",
+      "China",
+      "Europe",
+      "Germany",
+      "Global",
+      "Hong Kong",
+      "Japan",
+      "Taiwan",
+      "United States"
+    ],
+    "languages": [
+      "Chinese",
+      "English"
+    ],
+    "researchThemes": [
+      "AI and legal education",
+      "Case study methods",
+      "Causal inference",
+      "Chinese legal scholarship",
+      "Civil procedure",
+      "Comparative law",
+      "Comparative law methodology",
+      "Computational law",
+      "Consumer law",
+      "Content analysis",
+      "Criminal justice",
+      "Criminal law methodology",
+      "Curriculum design",
+      "Dispute resolution",
+      "Empirical legal studies",
+      "Fieldwork and case study",
+      "Geopolitics and legal order",
+      "Institutional analysis",
+      "Internationalization",
+      "Judicial data and big data",
+      "Judicial reasoning",
+      "Judicial reform",
+      "Judicial transparency",
+      "Law and economics",
+      "Legal cognition and experiments",
+      "Legal commentary",
+      "Legal dogmatics",
+      "Legal education reform",
+      "Legal implementation",
+      "Legal interpretation",
+      "Legal methodology",
+      "Legal profession",
+      "Legal research methods",
+      "Legal theory",
+      "Machine learning",
+      "Methodological critique",
+      "Methodological evolution",
+      "Normative and empirical analysis",
+      "Policy evaluation",
+      "Professionalization",
+      "Project documents",
+      "Quantitative legal studies",
+      "Regression and causal inference",
+      "Research design",
+      "Rule of law",
+      "Socio-legal studies",
+      "Socio-legal theory",
+      "Survey research"
+    ]
+  },
+  "stats": {
+    "sourceCount": 64,
+    "jurisdictionCount": 9,
+    "themeCount": 48,
+    "teachingUseCount": 11,
+    "languageCount": 2,
+    "topThemes": [
+      {
+        "name": "Empirical legal studies",
+        "count": 26
+      },
+      {
+        "name": "Legal education reform",
+        "count": 18
+      },
+      {
+        "name": "Chinese legal scholarship",
+        "count": 17
+      },
+      {
+        "name": "Curriculum design",
+        "count": 10
+      },
+      {
+        "name": "Professionalization",
+        "count": 9
+      },
+      {
+        "name": "Socio-legal studies",
+        "count": 9
+      },
+      {
+        "name": "Legal dogmatics",
+        "count": 8
+      },
+      {
+        "name": "Legal theory",
+        "count": 8
+      },
+      {
+        "name": "Comparative law",
+        "count": 6
+      },
+      {
+        "name": "Internationalization",
+        "count": 6
+      }
+    ],
+    "topJurisdictions": [
+      {
+        "name": "China",
+        "count": 55
+      },
+      {
+        "name": "Taiwan",
+        "count": 8
+      },
+      {
+        "name": "Global",
+        "count": 6
+      },
+      {
+        "name": "United States",
+        "count": 3
+      },
+      {
+        "name": "Germany",
+        "count": 2
+      },
+      {
+        "name": "Hong Kong",
+        "count": 2
+      },
+      {
+        "name": "Asia",
+        "count": 1
+      },
+      {
+        "name": "Europe",
+        "count": 1
+      },
+      {
+        "name": "Japan",
+        "count": 1
+      }
+    ],
+    "languageBreakdown": [
+      {
+        "name": "Chinese",
+        "count": 49
+      },
+      {
+        "name": "English",
+        "count": 15
+      }
+    ]
+  }
+}

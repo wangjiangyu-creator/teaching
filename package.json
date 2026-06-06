@@ -1,0 +1,13 @@
+{
+  "name": "teaching",
+  "version": "0.1.0",
+  "description": "A GitHub Pages site for source-centered legal education after generative AI and geoeconomic fragmentation.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:site": "node scripts/build_site_data.mjs",
+    "dev": "npm run build:site && node server/index.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "start": "node server/index.mjs"
+  }
+}

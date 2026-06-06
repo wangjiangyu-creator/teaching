@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Teaching Law is a public research and teaching site on legal education, generative AI, geoeconomics, and comparative legal method."
+    />
+    <meta name="theme-color" content="#f7f7f2" />
+    <meta property="og:title" content="Teaching Law" />
+    <meta
+      property="og:description"
+      content="A public teaching and research site for legal education after generative AI and geoeconomic fragmentation."
+    />
+    <meta property="og:type" content="website" />
+    <title>Teaching Law | AI, Geopolitics, and Legal Education</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header id="home" class="site-header">
+      <nav class="topbar" aria-label="Primary navigation">
+        <a class="brand" href="#home" aria-label="Teaching Law home">
+          <span class="brand-mark" aria-hidden="true">T</span>
+          <span>Teaching Law</span>
+        </a>
+        <div class="nav-links">
+          <a href="#article">Article</a>
+          <a href="#library">Corpus</a>
+          <a href="#method">Method</a>
+          <a href="#publish">GitHub</a>
+        </div>
+      </nav>
+
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">AI, geopolitics, and legal education</p>
+          <h1>Teaching law when legal knowledge is automated, contested, and global.</h1>
+          <p class="lead">
+            A public teaching and research site built from a source-centered workspace on legal education,
+            International Economic Law, Chinese law, comparative method, and responsible AI practice.
+          </p>
+          <div class="hero-actions" aria-label="Featured sections">
+            <a class="button primary" href="#article">Read the argument</a>
+            <a class="button secondary" href="#library">Explore the corpus</a>
+          </div>
+        </div>
+        <figure class="hero-visual">
+          <canvas id="heroMap" width="720" height="420" aria-label="Visual map of the teaching corpus"></canvas>
+          <figcaption id="heroCaption">Loading corpus map</figcaption>
+        </figure>
+      </section>
+    </header>
+
+    <main>
+      <section class="metrics-band" aria-labelledby="metricsTitle">
+        <div class="section-heading compact">
+          <p class="eyebrow">Workspace at a glance</p>
+          <h2 id="metricsTitle">A public map of the research base</h2>
+        </div>
+        <div id="metrics" class="metrics-grid"></div>
+      </section>
+
+      <section id="article" class="article-band" aria-labelledby="articleTitle">
+        <div class="article-layout">
+          <div class="section-heading">
+            <p class="eyebrow">Current article</p>
+            <h2 id="articleTitle">Teaching International Economic Law after Generative AI and Geoeconomic Fragmentation</h2>
+            <p id="articleSubtitle" class="section-intro"></p>
+          </div>
+          <article class="abstract-panel">
+            <h3>Abstract</h3>
+            <p id="articleAbstract"></p>
+            <div id="keywords" class="keyword-list" aria-label="Article keywords"></div>
+          </article>
+        </div>
+        <div id="contributions" class="contribution-grid" aria-label="Article contributions"></div>
+      </section>
+
+      <section id="library" class="library-band" aria-labelledby="libraryTitle">
+        <div class="section-heading">
+          <p class="eyebrow">Public corpus</p>
+          <h2 id="libraryTitle">Legal education source explorer</h2>
+          <p class="section-intro">
+            The public site shows bibliographic and thematic metadata only. Local curation notes, AI drafts,
+            unpublished student materials, and private Drive links stay outside the published site.
+          </p>
+        </div>
+
+        <div class="library-shell">
+          <aside class="filters-panel" aria-label="Corpus filters">
+            <label>
+              Search
+              <input id="query" type="search" placeholder="AI, China, curriculum, methods" />
+            </label>
+            <label>
+              Teaching use
+              <select id="teachingUse"></select>
+            </label>
+            <label>
+              Jurisdiction
+              <select id="jurisdiction"></select>
+            </label>
+            <label>
+              Theme
+              <select id="theme"></select>
+            </label>
+            <label>
+              Language
+              <select id="language"></select>
+            </label>
+            <div class="mini-chart">
+              <canvas id="themeBars" width="320" height="220" aria-label="Top corpus themes"></canvas>
+            </div>
+          </aside>
+
+          <section class="source-results" aria-label="Source list">
+            <div class="results-heading">
+              <h3>Sources</h3>
+              <span id="resultCount">0 results</span>
+            </div>
+            <div id="sources" class="source-list"></div>
+          </section>
+
+          <article id="sourceDetail" class="source-detail" aria-live="polite">
+            <p class="empty-state">Select a source to view its public metadata.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="method" class="method-band" aria-labelledby="methodTitle">
+        <div class="section-heading">
+          <p class="eyebrow">Pedagogical method</p>
+          <h2 id="methodTitle">Verification, comparison, and defense</h2>
+        </div>
+        <div class="method-grid">
+          <article>
+            <h3>Secure verification</h3>
+            <p>
+              Students still need controlled spaces where individual doctrinal competence and legal reasoning
+              can be assessed without outsourcing the core work of judgment.
+            </p>
+          </article>
+          <article>
+            <h3>Open research</h3>
+            <p>
+              AI can support topic discovery, structure, translation, and rehearsal, but legal claims must
+              return to sources that students can identify, evaluate, and cite.
+            </p>
+          </article>
+          <article>
+            <h3>Live defense</h3>
+            <p>
+              Oral simulation and questioning test whether polished prose is backed by responsive legal
+              judgment, comparative awareness, and professional accountability.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section id="publish" class="publish-band" aria-labelledby="publishTitle">
+        <div class="publish-panel">
+          <div>
+            <p class="eyebrow">GitHub Pages</p>
+            <h2 id="publishTitle">Ready for the repository named teaching</h2>
+            <p>
+              The deployable website lives in <code>public/</code>. A GitHub Actions workflow publishes only
+              that folder, so generated Word files, private working drafts, local notes, and server-side tools
+              are not part of the public Pages artifact.
+            </p>
+          </div>
+          <dl id="publishFacts" class="publish-facts"></dl>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Teaching Law. Source-centered legal education for a fragmented and automated legal order.</p>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
