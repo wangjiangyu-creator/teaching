@@ -176,6 +176,7 @@ code {
 }
 
 .lead,
+.creator-statement,
 .section-intro,
 .abstract-panel p,
 .method-grid p,
@@ -192,6 +193,14 @@ code {
   max-width: 720px;
   margin-bottom: 24px;
   font-size: 18px;
+}
+
+.creator-statement {
+  max-width: 760px;
+  margin-bottom: 14px;
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 740;
 }
 
 .hero-actions {
@@ -579,6 +588,12 @@ dd {
 .site-footer p {
   margin-bottom: 0;
   color: rgba(255, 255, 255, 0.78);
+}
+
+.site-footer .footer-statement {
+  margin-bottom: 10px;
+  color: #fff;
+  font-weight: 760;
 }
 
 .error-panel {
