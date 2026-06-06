@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T03:33:59.889Z",
+  "generatedAt": "2026-06-06T09:49:05.523Z",
   "repository": {
     "name": "teaching",
     "pagesPath": "/teaching/",
@@ -1346,6 +1346,1176 @@
       "updatedAtLabel": "2026-06-05"
     }
   ],
+  "literature": [
+    {
+      "id": "generative-ai-law-schools-assessment-2025",
+      "title": "Generative AI, Law Schools and Assessment: Where Next?",
+      "authors": "The Law Teacher authors",
+      "year": 2025,
+      "type": "Article",
+      "source": "The Law Teacher",
+      "scope": "United Kingdom",
+      "themes": [
+        "AI",
+        "Assessment",
+        "Legal education policy"
+      ],
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/03069400.2025.2535822",
+      "note": "A recent article on generative AI and assessment strategy in law schools."
+    },
+    {
+      "id": "lssse-annual-results",
+      "title": "Law School Survey of Student Engagement: Annual Results",
+      "authors": "Law School Survey of Student Engagement",
+      "year": 2025,
+      "type": "Report series",
+      "source": "Indiana University",
+      "scope": "United States",
+      "themes": [
+        "Student engagement",
+        "Empirical research",
+        "Diversity"
+      ],
+      "url": "https://lssse.indiana.edu/annual-results/",
+      "note": "Annual empirical reports on law student engagement, belonging, debt, disability, and learning conditions."
+    },
+    {
+      "id": "law-clinics-access-justice-ai-2024",
+      "title": "ChatGPT, I Have a Legal Question? The Impact of Generative AI Tools on Law Clinics and Access to Justice",
+      "authors": "Francine Ryan & Liz Hardie",
+      "year": 2024,
+      "type": "Article",
+      "source": "International Journal of Clinical Legal Education",
+      "scope": "United Kingdom",
+      "themes": [
+        "AI",
+        "Clinical education",
+        "Access to justice"
+      ],
+      "url": "https://doi.org/10.19164/ijcle.v31i1.1401",
+      "note": "A clinical-education account of generative AI, law clinics, and access to justice."
+    },
+    {
+      "id": "unc-generative-ai-annotated-bib-2024",
+      "title": "Generative AI and Law Schools: An Annotated Bibliography",
+      "authors": "Kathrine R. Everett Law Library",
+      "year": 2024,
+      "type": "Annotated bibliography",
+      "source": "University of North Carolina School of Law",
+      "scope": "United States",
+      "themes": [
+        "AI",
+        "Bibliography",
+        "Legal education"
+      ],
+      "url": "https://library.law.unc.edu/wp-content/uploads/2024/03/Generative-AI-in-Legal-Education-Annotated-Bib.pdf",
+      "note": "A useful bibliography for locating scholarship on generative AI in legal education."
+    },
+    {
+      "id": "polyjuralism-polyglotism-hk-2024",
+      "title": "Polyjuralism Meets Polyglotism: An LLB in Chinese Law and Global Legal Studies in the English Language",
+      "authors": "Lutz-Christian Wolff",
+      "year": 2024,
+      "type": "Article",
+      "source": "Asian Journal of Law and Society",
+      "scope": "Hong Kong / China / Global",
+      "themes": [
+        "Global legal studies",
+        "China",
+        "Curriculum"
+      ],
+      "url": "https://www.cambridge.org/core/journals/asian-journal-of-law-and-society/article/polyjuralism-meets-polyglotism-an-llb-in-chinese-law-and-global-legal-studies-in-the-english-language/4E08E8A1C55EBF6A3A69B25658626366",
+      "note": "A recent account of an English-language curriculum combining Chinese law and global legal studies."
+    },
+    {
+      "id": "teaching-law-generative-ai-bliss-2024",
+      "title": "Teaching Law in the Age of Generative AI",
+      "authors": "John Bliss",
+      "year": 2024,
+      "type": "Article",
+      "source": "Jurimetrics",
+      "scope": "United States",
+      "themes": [
+        "AI",
+        "Teaching methods",
+        "Professional practice"
+      ],
+      "url": "https://www.americanbar.org/content/dam/aba/publications/Jurimetrics/winter-2024/teaching-law-in-the-age-of-generative-ai.pdf",
+      "note": "A major article on preparing law students for generative AI in legal practice and legal education."
+    },
+    {
+      "id": "seventy-years-legal-education-china-2024",
+      "title": "The 70 Years of Legal Education in China from 1949 to 2023: Historical Development, Current Issues and Future Innovations",
+      "authors": "Yuxia Song & Haotian Fan",
+      "year": 2024,
+      "type": "Article",
+      "source": "Asian Journal of Legal Education",
+      "scope": "China",
+      "themes": [
+        "China",
+        "History",
+        "Reform"
+      ],
+      "url": "https://doi.org/10.1177/23220058241231322",
+      "note": "A recent historical and reform-oriented account of Chinese legal education."
+    },
+    {
+      "id": "ai-literacy-law-schools-2024",
+      "title": "The Case for Nurturing AI Literacy in Law Schools",
+      "authors": "Sara Migliorini & Joao Ilhao Moreira",
+      "year": 2024,
+      "type": "Article",
+      "source": "Asian Journal of Legal Education",
+      "scope": "Comparative",
+      "themes": [
+        "AI",
+        "AI literacy",
+        "Curriculum"
+      ],
+      "url": "https://doi.org/10.1177/23220058241265613",
+      "note": "A curriculum-oriented case for AI literacy in law schools."
+    },
+    {
+      "id": "chatgpt-law-school-assessments-hargreaves-2023",
+      "title": "'Words Are Flowing Out Like Endless Rain into a Paper Cup': ChatGPT and Law School Assessments",
+      "authors": "Stuart Hargreaves",
+      "year": 2023,
+      "type": "Article",
+      "source": "Legal Education Review",
+      "scope": "Australia / New Zealand",
+      "themes": [
+        "AI",
+        "Assessment",
+        "Academic integrity"
+      ],
+      "url": "https://doi.org/10.53300/001c.83297",
+      "note": "A focused article on ChatGPT and law school assessment design."
+    },
+    {
+      "id": "chatgpt-future-legal-education-practice-2023",
+      "title": "ChatGPT and the Future of Legal Education and Practice",
+      "authors": "Marjan Ajevski, Kim Barker & Andrew Gilbert",
+      "year": 2023,
+      "type": "Article",
+      "source": "The Law Teacher",
+      "scope": "United Kingdom",
+      "themes": [
+        "AI",
+        "Assessment",
+        "Legal practice"
+      ],
+      "url": "https://doi.org/10.1080/03069400.2023.2207426",
+      "note": "An early article on ChatGPT's significance for legal education and practice."
+    },
+    {
+      "id": "chatgpt-goes-law-school-2023",
+      "title": "ChatGPT Goes to Law School",
+      "authors": "Jonathan H. Choi, Kristin E. Hickman, Amy B. Monahan & Daniel Schwarcz",
+      "year": 2023,
+      "type": "Article",
+      "source": "Journal of Legal Education / SSRN",
+      "scope": "United States",
+      "themes": [
+        "AI",
+        "Assessment",
+        "Legal education"
+      ],
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335905",
+      "note": "An empirical study of ChatGPT performance on law school exams and implications for assessment."
+    },
+    {
+      "id": "pro-bono-clinics-comparative-2020",
+      "title": "A Comparative Study into Legal Education and Graduate Employability Skills in Law Students Through Pro Bono Law Clinics",
+      "authors": "Francina Cantatore, David McQuoid-Mason & Valeska V. Geldres-Weiss",
+      "year": 2020,
+      "type": "Article",
+      "source": "The Law Teacher",
+      "scope": "Comparative",
+      "themes": [
+        "Clinical education",
+        "Employability",
+        "Pro bono"
+      ],
+      "url": "https://doi.org/10.1080/03069400.2020.1818464",
+      "note": "A comparative account of pro bono clinics and graduate employability skills."
+    },
+    {
+      "id": "legal-writing-pedagogy-cali",
+      "title": "Legal Writing Pedagogy: Commenting, Conferencing, and Classroom Teaching",
+      "authors": "CALI eLangdell contributors",
+      "year": 2020,
+      "type": "Teaching resource",
+      "source": "CALI eLangdell",
+      "scope": "United States",
+      "themes": [
+        "Legal writing",
+        "Feedback",
+        "Teaching methods"
+      ],
+      "url": "https://legalwritingpedagogy.lawbooks.cali.org/front-matter/introduction-2/",
+      "note": "An open-access teaching resource on legal writing feedback, conferencing, and classroom pedagogy."
+    },
+    {
+      "id": "porter-socratic-method",
+      "title": "The Socratic Method",
+      "authors": "Elizabeth G. Porter",
+      "year": 2020,
+      "type": "Book chapter",
+      "source": "Faculty repository",
+      "scope": "United States",
+      "themes": [
+        "Socratic method",
+        "Case method",
+        "Pedagogy"
+      ],
+      "url": "https://digitalcommons.law.uw.edu/faculty-chapters/4/",
+      "note": "A contemporary account of the Socratic method and its role in legal pedagogy."
+    },
+    {
+      "id": "comparative-law-legal-education-demleitner-2019",
+      "title": "Comparative Law in Legal Education",
+      "authors": "Nora V. Demleitner",
+      "year": 2019,
+      "type": "Reference entry",
+      "source": "Oxford Handbook of Comparative Law",
+      "scope": "Comparative",
+      "themes": [
+        "Comparative law",
+        "Curriculum",
+        "Globalization"
+      ],
+      "url": "https://doi.org/10.1093/oxfordhb/9780198810230.013.46",
+      "note": "A reference entry on comparative law's role in legal education."
+    },
+    {
+      "id": "law-school-professional-identity-formation-longan",
+      "title": "Law School and Professional Identity Formation",
+      "authors": "Patrick Emery Longan, Daisy Hurst Floyd & Timothy W. Floyd",
+      "year": 2019,
+      "type": "Article",
+      "source": "Mercer Law faculty repository",
+      "scope": "United States",
+      "themes": [
+        "Professional identity",
+        "Legal ethics",
+        "Formation"
+      ],
+      "url": "https://digitalcommons.law.mercer.edu/fac_pubs/32/",
+      "note": "A legal ethics and professional identity account of formation in law school."
+    },
+    {
+      "id": "wilensky-dethroning-langdell",
+      "title": "Dethroning Langdell",
+      "authors": "Beth H. Wilensky",
+      "year": 2018,
+      "type": "Article",
+      "source": "Michigan Law faculty repository",
+      "scope": "United States",
+      "themes": [
+        "Case method",
+        "Langdell",
+        "Pedagogy"
+      ],
+      "url": "https://repository.law.umich.edu/articles/2799/",
+      "note": "A critique of the continuing dominance of Langdellian case-method teaching."
+    },
+    {
+      "id": "australian-clinical-legal-education-2017",
+      "title": "Australian Clinical Legal Education: Designing and Operating a Best Practice Clinical Program in an Australian Law School",
+      "authors": "Adrian Evans et al.",
+      "year": 2017,
+      "type": "Book",
+      "source": "ANU Press",
+      "scope": "Australia",
+      "themes": [
+        "Clinical education",
+        "Best practices",
+        "Program design"
+      ],
+      "url": "https://press.anu.edu.au/publications/australian-clinical-legal-education",
+      "note": "An open-access guide to designing and operating clinical legal education programs."
+    },
+    {
+      "id": "formative-assessments-law-school-2017",
+      "title": "Formative Assessments: A Law School Case Study",
+      "authors": "Deborah Jones Merritt, Ruth Colker, Ellen E. Deason, Monte Smith & Abigail Shoben",
+      "year": 2017,
+      "type": "Article",
+      "source": "SSRN / Ohio State",
+      "scope": "United States",
+      "themes": [
+        "Assessment",
+        "Feedback",
+        "Empirical research"
+      ],
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2955055",
+      "note": "An empirical case study on formative assessment and transfer effects in law school learning."
+    },
+    {
+      "id": "training-for-justice-wilson-2017",
+      "title": "Training for Justice: The Global Reach of Clinical Legal Education",
+      "authors": "Richard J. Wilson",
+      "year": 2017,
+      "type": "Book",
+      "source": "Cambridge University Press",
+      "scope": "Global",
+      "themes": [
+        "Clinical education",
+        "Justice education",
+        "Comparative legal education"
+      ],
+      "url": "https://www.cambridge.org/core/books/training-for-justice/6F6B91F7BE1D6D5C11F079E4EB8E0226",
+      "note": "A global account of clinical legal education as a justice-oriented movement."
+    },
+    {
+      "id": "foundations-for-practice-2016",
+      "title": "Foundations for Practice: The Whole Lawyer and the Character Quotient",
+      "authors": "Alli Gerkman & Logan Cornett",
+      "year": 2016,
+      "type": "Report",
+      "source": "IAALS",
+      "scope": "United States",
+      "themes": [
+        "Professional identity",
+        "Competence",
+        "Empirical research"
+      ],
+      "url": "https://iaals.du.edu/sites/default/files/reports/foundations_for_practice_whole_lawyer_character_quotient.pdf",
+      "note": "A survey-based framework of skills, professional competencies, and character foundations for new lawyers."
+    },
+    {
+      "id": "building-on-best-practices-2015",
+      "title": "Building on Best Practices: Transforming Legal Education in a Changing World",
+      "authors": "Deborah Maranville, Lisa Radtke Bliss, Carolyn Wilkes Kaas & Antoinette Sedillo Lopez",
+      "year": 2015,
+      "type": "Book/report",
+      "source": "CLEA / Matthew Bender",
+      "scope": "United States",
+      "themes": [
+        "Best practices",
+        "Experiential learning",
+        "Assessment"
+      ],
+      "url": "https://www.cleaweb.org/building-on-best-practices",
+      "note": "A follow-up reform volume on curriculum, assessment, clinics, externships, and institutional change."
+    },
+    {
+      "id": "legal-education-globalizing-baskir-2015",
+      "title": "Legal Education in China: Globalizing with Chinese Characteristics",
+      "authors": "Cecily E. Baskir",
+      "year": 2015,
+      "type": "Article",
+      "source": "Asian Journal of Legal Education",
+      "scope": "China",
+      "themes": [
+        "China",
+        "Globalization",
+        "Legal education reform"
+      ],
+      "url": "https://doi.org/10.1177/2322005815587136",
+      "note": "An article on Chinese legal education and globalization."
+    },
+    {
+      "id": "abrams-reframing-socratic-method-2015",
+      "title": "Reframing the Socratic Method",
+      "authors": "Jamie R. Abrams",
+      "year": 2015,
+      "type": "Article",
+      "source": "Journal of Legal Education",
+      "scope": "United States",
+      "themes": [
+        "Socratic method",
+        "Inclusive teaching",
+        "Pedagogy"
+      ],
+      "url": "https://digitalcommons.wcl.american.edu/facsch_lawrev/2028/",
+      "note": "A proposal for adapting Socratic teaching to support broader student-development goals."
+    },
+    {
+      "id": "what-makes-lawyers-happy-2015",
+      "title": "What Makes Lawyers Happy? A Data-Driven Prescription to Redefine Professional Success",
+      "authors": "Lawrence S. Krieger & Kennon M. Sheldon",
+      "year": 2015,
+      "type": "Article",
+      "source": "George Washington Law Review",
+      "scope": "United States",
+      "themes": [
+        "Wellbeing",
+        "Professional identity",
+        "Empirical research"
+      ],
+      "url": "https://www.gwlr.org/wp-content/uploads/2015/04/83-Geo.-Wash.-L.-Rev.-554.pdf",
+      "note": "An empirical study of lawyer wellbeing with implications for legal education."
+    },
+    {
+      "id": "asian-journal-legal-education",
+      "title": "Asian Journal of Legal Education",
+      "authors": "SAGE / Jindal Global Law School",
+      "year": 2014,
+      "type": "Journal",
+      "source": "SAGE",
+      "scope": "Asia / global",
+      "themes": [
+        "Asian legal education",
+        "Comparative legal education",
+        "Reform"
+      ],
+      "url": "https://journals.sagepub.com/home/ale",
+      "note": "A journal dedicated to legal education in Asia and comparative perspectives."
+    },
+    {
+      "id": "aba-future-legal-education-2014",
+      "title": "Report and Recommendations of the ABA Task Force on the Future of Legal Education",
+      "authors": "ABA Task Force on the Future of Legal Education",
+      "year": 2014,
+      "type": "Report",
+      "source": "American Bar Association",
+      "scope": "United States",
+      "themes": [
+        "Future of legal education",
+        "Cost",
+        "Regulation"
+      ],
+      "url": "https://www.americanbar.org/groups/professional_responsibility/taskforceonthefuturelegaleducation/",
+      "note": "A post-financial-crisis report on cost, delivery, accreditation, and legal education reform."
+    },
+    {
+      "id": "teaching-professional-identity-katz",
+      "title": "Teaching Professional Identity in Law School",
+      "authors": "Martin J. Katz",
+      "year": 2014,
+      "type": "Article",
+      "source": "University of Denver faculty repository",
+      "scope": "United States",
+      "themes": [
+        "Professional identity",
+        "Experiential learning",
+        "Curriculum"
+      ],
+      "url": "https://digitalcommons.du.edu/law_facpub/154/",
+      "note": "An article on intentional teaching of professional identity in legal education."
+    },
+    {
+      "id": "disciplinary-pedagogy-mcmurtry-chubb-2014",
+      "title": "Toward a Disciplinary Pedagogy for Legal Education",
+      "authors": "Teri A. McMurtry-Chubb",
+      "year": 2014,
+      "type": "Article",
+      "source": "SSRN",
+      "scope": "United States",
+      "themes": [
+        "Legal writing",
+        "Rhetoric",
+        "Writing across the curriculum"
+      ],
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2447973",
+      "note": "A legal-writing and rhetoric article connecting WAC/WID theories to legal education."
+    },
+    {
+      "id": "cultural-competency-training-2013",
+      "title": "Cultural Competency Training: Preparing Law Students for Practice in Our Multicultural World",
+      "authors": "Andrea A. Curcio, Teresa Ward & Nisha Dogra",
+      "year": 2013,
+      "type": "Article",
+      "source": "UCLA Law Review",
+      "scope": "United States",
+      "themes": [
+        "Cultural competence",
+        "Diversity",
+        "Professional skills"
+      ],
+      "url": "https://www.uclalawreview.org/cultural-competency-training-preparing-law-students-for-practice-in-our-multicultural-world-2/",
+      "note": "An article on teaching cultural competence as part of lawyering preparation."
+    },
+    {
+      "id": "educating-invincibles-2013",
+      "title": "Educating the Invincibles: Strategies for Teaching the Millennial Generation in Law School",
+      "authors": "Emily A. Benfer & Colleen F. Shanahan",
+      "year": 2013,
+      "type": "Article",
+      "source": "Loyola University Chicago faculty repository",
+      "scope": "United States",
+      "themes": [
+        "Student engagement",
+        "Generational learning",
+        "Pedagogy"
+      ],
+      "url": "https://lawecommons.luc.edu/facpubs/459/",
+      "note": "A teaching-strategy article focused on learning needs and expectations of contemporary law students."
+    },
+    {
+      "id": "learning-how-of-law-2013",
+      "title": "Learning the 'How' of the Law: Teaching Procedure and Legal Education",
+      "authors": "David Bamford, Trevor C. W. Farrow & Michael Karayanni",
+      "year": 2013,
+      "type": "Article",
+      "source": "Osgoode Hall Law Journal",
+      "scope": "Comparative",
+      "themes": [
+        "Procedure",
+        "Teaching method",
+        "Curriculum"
+      ],
+      "url": "https://doi.org/10.60082/2817-5069.2605",
+      "note": "A comparative article on teaching procedure and the practical how of law."
+    },
+    {
+      "id": "professional-identity-madison-2013",
+      "title": "Professional Identity Formation: Legal Education's Early Emphasis on Character, the Evisceration of This Priority, and What the First Law Schools Can Teach Us",
+      "authors": "Benjamin V. Madison III",
+      "year": 2013,
+      "type": "Article",
+      "source": "SSRN",
+      "scope": "United States",
+      "themes": [
+        "Professional identity",
+        "Character",
+        "History"
+      ],
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2311492",
+      "note": "A historical and normative argument for restoring professional identity formation in law schools."
+    },
+    {
+      "id": "letr-setting-standards-2013",
+      "title": "Setting Standards: The Future of Legal Services Education and Training Regulation in England and Wales",
+      "authors": "Julian Webb, Jane Ching, Paul Maharg & Avrom Sherr",
+      "year": 2013,
+      "type": "Report",
+      "source": "Legal Education and Training Review",
+      "scope": "England and Wales",
+      "themes": [
+        "Regulation",
+        "Professional training",
+        "Competence"
+      ],
+      "url": "https://letr.org.uk/the-report/index.html",
+      "note": "The major evidence-based review of legal services education and training in England and Wales."
+    },
+    {
+      "id": "transnational-law-legal-education-2013",
+      "title": "Transnational Law and Legal Education",
+      "authors": "Maureen Irish",
+      "year": 2013,
+      "type": "Article",
+      "source": "Windsor Yearbook of Access to Justice",
+      "scope": "Transnational",
+      "themes": [
+        "Transnational law",
+        "Globalization",
+        "Curriculum"
+      ],
+      "url": "https://doi.org/10.22329/wyaj.v31i1.4322",
+      "note": "An article on teaching and conceptualizing law across borders."
+    },
+    {
+      "id": "best-law-teachers-2013",
+      "title": "What the Best Law Teachers Do",
+      "authors": "Michael Hunter Schwartz, Gerald F. Hess & Sophie M. Sparrow",
+      "year": 2013,
+      "type": "Book",
+      "source": "Harvard University Press",
+      "scope": "United States",
+      "themes": [
+        "Excellent teaching",
+        "Pedagogy",
+        "Student engagement"
+      ],
+      "url": "https://www.hup.harvard.edu/books/9780674049147",
+      "note": "A qualitative study of highly regarded law teachers and their pedagogical habits."
+    },
+    {
+      "id": "teaching-formation-professional-identity-thomson-2012",
+      "title": "'Teaching' Formation of Professional Identity",
+      "authors": "David I. C. Thomson",
+      "year": 2012,
+      "type": "Article",
+      "source": "SSRN",
+      "scope": "United States",
+      "themes": [
+        "Professional identity",
+        "Simulation",
+        "Curriculum"
+      ],
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2171321",
+      "note": "A simulation-based account of teaching professional identity after the Carnegie Report."
+    },
+    {
+      "id": "better-writing-better-thinking",
+      "title": "Better Writing, Better Thinking: Using Legal Writing Pedagogy in the Casebook Classroom Without Grading Papers",
+      "authors": "Angela McCaffrey",
+      "year": 2012,
+      "type": "Article",
+      "source": "Legal Writing Journal",
+      "scope": "United States",
+      "themes": [
+        "Legal writing",
+        "Casebook classroom",
+        "Pedagogy"
+      ],
+      "url": "https://www.legalwritingjournal.org/api/v1/articles/24794-better-writing-better-thinking-using-legal-writing-pedagogy-in-the-casebook-classroom-without-grading-papers.pdf",
+      "note": "An article on importing legal-writing pedagogy into doctrinal and casebook teaching."
+    },
+    {
+      "id": "thornton-privatising-public-university-2012",
+      "title": "Privatising the Public University: The Case of Law",
+      "authors": "Margaret Thornton",
+      "year": 2012,
+      "type": "Book",
+      "source": "Routledge",
+      "scope": "Australia, New Zealand, United Kingdom, Canada",
+      "themes": [
+        "Marketization",
+        "Legal academy",
+        "Higher education"
+      ],
+      "url": "https://www.routledge.com/Privatising-the-Public-University-The-Case-of-Law/Thornton/p/book/9780415821537",
+      "note": "A critical study of market reform, corporatization, and law schools in public universities."
+    },
+    {
+      "id": "steele-taylor-legal-education-asia-2010",
+      "title": "Legal Education in Asia: Globalization, Change and Contexts",
+      "authors": "Stacey Steele & Kathryn Taylor",
+      "year": 2010,
+      "type": "Edited book",
+      "source": "Routledge",
+      "scope": "Asia-Pacific",
+      "themes": [
+        "Comparative legal education",
+        "Globalization",
+        "Reform"
+      ],
+      "url": "https://www.routledge.com/Legal-Education-in-Asia-Globalization-Change-and-Contexts/Steele-Taylor/p/book/9780415673631",
+      "note": "A multi-jurisdictional collection on legal education reform across Asia."
+    },
+    {
+      "id": "global-clinical-movement-2010",
+      "title": "The Global Clinical Movement: Educating Lawyers for Social Justice",
+      "authors": "Frank S. Bloch",
+      "year": 2010,
+      "type": "Edited book",
+      "source": "Oxford University Press",
+      "scope": "Global",
+      "themes": [
+        "Clinical education",
+        "Social justice",
+        "Comparative legal education"
+      ],
+      "url": "https://academic.oup.com/book/32882",
+      "note": "A global account of clinical legal education, legal aid clinics, justice mission, and social justice pedagogy."
+    },
+    {
+      "id": "legal-education-reform-china-erie-2009",
+      "title": "Legal Education Reform in China Through U.S.-Inspired Transplants",
+      "authors": "Matthew S. Erie",
+      "year": 2009,
+      "type": "Article",
+      "source": "Journal of Legal Education",
+      "scope": "China and United States",
+      "themes": [
+        "China",
+        "Legal transplants",
+        "Reform"
+      ],
+      "url": "https://jle.aals.org/home/vol59/iss1/3/",
+      "note": "A comparative account of U.S.-inspired reforms in Chinese legal education."
+    },
+    {
+      "id": "teaching-law-by-design-2009",
+      "title": "Teaching Law by Design: Engaging Students from the Syllabus to the Final Exam",
+      "authors": "Michael Hunter Schwartz, Sophie M. Sparrow & Gerald F. Hess",
+      "year": 2009,
+      "type": "Book",
+      "source": "Carolina Academic Press",
+      "scope": "United States",
+      "themes": [
+        "Course design",
+        "Assessment",
+        "Student engagement"
+      ],
+      "url": "https://scholars.unh.edu/law_facpub/184/",
+      "note": "A course-design manual for law teachers, from learning outcomes to syllabus and assessment design."
+    },
+    {
+      "id": "best-practices-legal-education-2007",
+      "title": "Best Practices for Legal Education: A Vision and A Road Map",
+      "authors": "Roy Stuckey et al.",
+      "year": 2007,
+      "type": "Report/book",
+      "source": "Clinical Legal Education Association",
+      "scope": "United States",
+      "themes": [
+        "Best practices",
+        "Assessment",
+        "Experiential learning"
+      ],
+      "url": "https://encle.org/upload/files/teaching-materials/best_practices-full.pdf",
+      "note": "A major reform text on outcomes, assessment, active learning, and professional preparation."
+    },
+    {
+      "id": "educating-lawyers-2007",
+      "title": "Educating Lawyers: Preparation for the Profession of Law",
+      "authors": "William M. Sullivan, Anne Colby, Judith Welch Wegner, Lloyd Bond & Lee S. Shulman",
+      "year": 2007,
+      "type": "Book/report",
+      "source": "Carnegie Foundation / Jossey-Bass",
+      "scope": "United States and Canada",
+      "themes": [
+        "Professional identity",
+        "Curriculum reform",
+        "Pedagogy"
+      ],
+      "url": "https://archive.carnegiefoundation.org/professional_graduate_education/legal-education-study.html",
+      "note": "The Carnegie Report on legal analysis, practical skill, and professional identity formation."
+    },
+    {
+      "id": "mertz-language-law-school-2007",
+      "title": "The Language of Law School: Learning to Think Like a Lawyer",
+      "authors": "Elizabeth Mertz",
+      "year": 2007,
+      "type": "Book",
+      "source": "Oxford University Press",
+      "scope": "United States",
+      "themes": [
+        "Legal reasoning",
+        "Socratic method",
+        "Language"
+      ],
+      "url": "https://academic.oup.com/book/9942",
+      "note": "An empirical linguistic study of first-year legal education and thinking like a lawyer."
+    },
+    {
+      "id": "maharg-transforming-legal-education-2007",
+      "title": "Transforming Legal Education: Learning and Teaching the Law in the Early Twenty-First Century",
+      "authors": "Paul Maharg",
+      "year": 2007,
+      "type": "Book",
+      "source": "Routledge",
+      "scope": "United Kingdom and United States",
+      "themes": [
+        "Technology",
+        "Simulation",
+        "Transactional learning"
+      ],
+      "url": "https://www.routledge.com/Transforming-Legal-Education-Learning-and-Teaching-the-Law-in-the-Early-Twenty-first-Century/Maharg/p/book/9781138248274",
+      "note": "A theoretical and design-oriented account of technology-rich transactional legal learning."
+    },
+    {
+      "id": "sheldon-krieger-negative-effects-2007",
+      "title": "Understanding the Negative Effects of Legal Education on Law Students: A Longitudinal Test of Self-Determination Theory",
+      "authors": "Kennon M. Sheldon & Lawrence S. Krieger",
+      "year": 2007,
+      "type": "Article",
+      "source": "Personality and Social Psychology Bulletin",
+      "scope": "United States",
+      "themes": [
+        "Wellbeing",
+        "Motivation",
+        "Empirical research"
+      ],
+      "url": "https://doi.org/10.1177/0146167207301014",
+      "note": "A longitudinal study of law student wellbeing, motivation, and autonomy support."
+    },
+    {
+      "id": "shulman-signature-pedagogies-2005",
+      "title": "Signature Pedagogies in the Professions",
+      "authors": "Lee S. Shulman",
+      "year": 2005,
+      "type": "Article",
+      "source": "Daedalus",
+      "scope": "Professional education",
+      "themes": [
+        "Signature pedagogy",
+        "Professional education",
+        "Learning theory"
+      ],
+      "url": "https://doi.org/10.1162/0011526054622015",
+      "note": "A widely cited framework for understanding professional signature pedagogies, including law."
+    },
+    {
+      "id": "comparative-law-legal-education-orucu-2004",
+      "title": "Comparative Law and Legal Education",
+      "authors": "Esin Orucu",
+      "year": 2004,
+      "type": "Book chapter",
+      "source": "The Enigma of Comparative Law",
+      "scope": "Comparative",
+      "themes": [
+        "Comparative law",
+        "Curriculum",
+        "Legal education"
+      ],
+      "url": "https://doi.org/10.1007/978-94-017-5596-2_8",
+      "note": "A comparative-law chapter on the place of comparative method in legal education."
+    },
+    {
+      "id": "cownie-legal-academics-2004",
+      "title": "Legal Academics: Culture and Identities",
+      "authors": "Fiona Cownie",
+      "year": 2004,
+      "type": "Book",
+      "source": "Hart Publishing",
+      "scope": "United Kingdom",
+      "themes": [
+        "Legal academy",
+        "Professional identity",
+        "Institutions"
+      ],
+      "url": "https://books.google.com/books?id=6XgBAQAAIAAJ",
+      "note": "A sociological account of the identities, cultures, and work of legal academics."
+    },
+    {
+      "id": "bradney-conversations-choices-chances-2003",
+      "title": "Conversations, Choices and Chances: The Liberal Law School in the Twenty-First Century",
+      "authors": "Anthony Bradney",
+      "year": 2003,
+      "type": "Book",
+      "source": "Hart Publishing",
+      "scope": "United Kingdom",
+      "themes": [
+        "Liberal legal education",
+        "Institutions",
+        "Legal scholarship"
+      ],
+      "url": "https://books.google.com/books?id=U9wQAQAAIAAJ",
+      "note": "A defense and critique of liberal legal education in a changing university context."
+    },
+    {
+      "id": "heads-and-hearts-hess-2002",
+      "title": "Heads and Hearts: The Teaching and Learning Environment in Law School",
+      "authors": "Gerald F. Hess",
+      "year": 2002,
+      "type": "Article",
+      "source": "Journal of Legal Education",
+      "scope": "United States",
+      "themes": [
+        "Learning environment",
+        "Student engagement",
+        "Wellbeing"
+      ],
+      "url": "https://jle.aals.org/home/vol52/iss1/6/",
+      "note": "A law-teaching article on classroom climate, motivation, and effective learning environments."
+    },
+    {
+      "id": "institutional-denial-krieger-2002",
+      "title": "Institutional Denial About the Dark Side of Law School, and Fresh Empirical Guidance for Constructively Breaking the Silence",
+      "authors": "Lawrence S. Krieger",
+      "year": 2002,
+      "type": "Article",
+      "source": "SSRN / Journal of Legal Education",
+      "scope": "United States",
+      "themes": [
+        "Wellbeing",
+        "Law school culture",
+        "Empirical research"
+      ],
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=328942",
+      "note": "A key empirical and normative article on law school distress and institutional culture."
+    },
+    {
+      "id": "law-school-clinic-wizner-2002",
+      "title": "The Law School Clinic: Legal Education in the Interests of Justice",
+      "authors": "Stephen Wizner",
+      "year": 2002,
+      "type": "Article",
+      "source": "Fordham Law Review",
+      "scope": "United States",
+      "themes": [
+        "Clinical education",
+        "Social justice",
+        "Professional responsibility"
+      ],
+      "url": "https://ir.lawnet.fordham.edu/flr/vol70/iss5/29/",
+      "note": "A classic statement of the justice mission and public-interest role of law school clinics."
+    },
+    {
+      "id": "infusing-passion-context-maranville-2001",
+      "title": "Infusing Passion and Context into the Traditional Law Curriculum Through Experiential Learning",
+      "authors": "Deborah Maranville",
+      "year": 2001,
+      "type": "Article",
+      "source": "Journal of Legal Education",
+      "scope": "United States",
+      "themes": [
+        "Experiential learning",
+        "Curriculum",
+        "Student engagement"
+      ],
+      "url": "https://jle.aals.org/home/vol51/iss1/3/",
+      "note": "A widely cited argument for integrating experiential learning into traditional courses."
+    },
+    {
+      "id": "five-habits-bryant-2001",
+      "title": "The Five Habits: Building Cross-Cultural Competence in Lawyers",
+      "authors": "Susan Bryant",
+      "year": 2001,
+      "type": "Article",
+      "source": "Clinical Law Review",
+      "scope": "United States",
+      "themes": [
+        "Clinical education",
+        "Cultural competence",
+        "Diversity"
+      ],
+      "url": "https://academicworks.cuny.edu/cl_pubs/258/",
+      "note": "A foundational clinical teaching article on cross-cultural lawyering habits."
+    },
+    {
+      "id": "clinical-third-wave-2000",
+      "title": "Clinical Education for This Millennium: The Third Wave",
+      "authors": "Margaret Martin Barry, Jon C. Dubin & Peter A. Joy",
+      "year": 2000,
+      "type": "Article",
+      "source": "Clinical Law Review",
+      "scope": "United States",
+      "themes": [
+        "Clinical education",
+        "Curriculum reform",
+        "Professional skills"
+      ],
+      "url": "https://openscholarship.wustl.edu/law_scholarship/828/",
+      "note": "A major article on the development and future of clinical legal education."
+    },
+    {
+      "id": "international-journal-clinical-legal-education",
+      "title": "International Journal of Clinical Legal Education",
+      "authors": "Northumbria University / IJCLE",
+      "year": 2000,
+      "type": "Journal",
+      "source": "IJCLE",
+      "scope": "Global",
+      "themes": [
+        "Clinical education",
+        "Access to justice",
+        "Experiential learning"
+      ],
+      "url": "https://www.northumbriajournals.co.uk/index.php/ijcle",
+      "note": "A specialist journal on clinical legal education, access to justice, and experiential learning."
+    },
+    {
+      "id": "techniques-for-teaching-law-1999",
+      "title": "Techniques for Teaching Law",
+      "authors": "Gerald F. Hess & Steven I. Friedland",
+      "year": 1999,
+      "type": "Book",
+      "source": "Carolina Academic Press",
+      "scope": "United States",
+      "themes": [
+        "Teaching methods",
+        "Classroom practice",
+        "Assessment"
+      ],
+      "url": "https://books.google.com/books/about/Techniques_for_Teaching_Law.html?id=8Dk7AQAAIAAJ",
+      "note": "A practical collection of legal teaching techniques grounded in learning theory and classroom experience."
+    },
+    {
+      "id": "decline-socratic-harvard-1999",
+      "title": "The Decline of the Socratic Method at Harvard",
+      "authors": "Phillip E. Areeda",
+      "year": 1999,
+      "type": "Article",
+      "source": "Nebraska Law Review",
+      "scope": "United States",
+      "themes": [
+        "Socratic method",
+        "History",
+        "Classroom practice"
+      ],
+      "url": "https://digitalcommons.unl.edu/nlr/vol78/iss1/6/",
+      "note": "An empirical and historical account of changes in Socratic teaching at Harvard Law School."
+    },
+    {
+      "id": "sheppard-history-legal-education-1999",
+      "title": "The History of Legal Education in the United States: Commentaries and Primary Sources",
+      "authors": "Steve Sheppard",
+      "year": 1999,
+      "type": "Book",
+      "source": "Lawbook Exchange",
+      "scope": "United States",
+      "themes": [
+        "History",
+        "Primary sources",
+        "Institutions"
+      ],
+      "url": "https://books.google.com/books?id=4nVMAQAAIAAJ",
+      "note": "A documentary collection for the history of legal education in the United States."
+    },
+    {
+      "id": "becoming-gentlemen-1997",
+      "title": "Becoming Gentlemen: Women, Law School, and Institutional Change",
+      "authors": "Lani Guinier, Michelle Fine & Jane Balin",
+      "year": 1997,
+      "type": "Book",
+      "source": "Beacon Press",
+      "scope": "United States",
+      "themes": [
+        "Gender",
+        "Diversity",
+        "Law school culture"
+      ],
+      "url": "https://books.google.com/books?id=mxkOAQAAMAAJ",
+      "note": "A landmark study of gender, institutional culture, and law school experience."
+    },
+    {
+      "id": "twining-blackstones-tower-1994",
+      "title": "Blackstone's Tower: The English Law School",
+      "authors": "William Twining",
+      "year": 1994,
+      "type": "Book",
+      "source": "Sweet & Maxwell",
+      "scope": "United Kingdom",
+      "themes": [
+        "History",
+        "Liberal legal education",
+        "Institutions"
+      ],
+      "url": "https://books.google.com/books?id=nq1FAQAAIAAJ",
+      "note": "A key reflection on the English law school and liberal legal education."
+    },
+    {
+      "id": "clinical-law-review",
+      "title": "Clinical Law Review",
+      "authors": "NYU, AALS and CLEA",
+      "year": 1994,
+      "type": "Journal",
+      "source": "Clinical Law Review",
+      "scope": "United States / global",
+      "themes": [
+        "Clinical education",
+        "Professional skills",
+        "Social justice"
+      ],
+      "url": "https://www.law.nyu.edu/academics/clinics/clinical-law-review",
+      "note": "A leading journal devoted to clinical legal education and lawyering pedagogy."
+    },
+    {
+      "id": "maccrate-report-1992",
+      "title": "Legal Education and Professional Development: An Educational Continuum",
+      "authors": "ABA Task Force on Law Schools and the Profession",
+      "year": 1992,
+      "type": "Report",
+      "source": "American Bar Association",
+      "scope": "United States",
+      "themes": [
+        "Professional skills",
+        "Curriculum reform",
+        "Assessment"
+      ],
+      "url": "https://lawcat.berkeley.edu/record/142818?ln=en",
+      "note": "The MacCrate Report on lawyering skills, professional values, and the law school-to-practice continuum."
+    },
+    {
+      "id": "legal-education-review",
+      "title": "Legal Education Review",
+      "authors": "Australasian Law Academics Association",
+      "year": 1989,
+      "type": "Journal",
+      "source": "Legal Education Review",
+      "scope": "Australia / New Zealand / global",
+      "themes": [
+        "Legal education",
+        "Assessment",
+        "Pedagogy"
+      ],
+      "url": "https://ler.scholasticahq.com/",
+      "note": "A journal focused on legal education scholarship, especially in Australasia."
+    },
+    {
+      "id": "race-conscious-pedagogy-crenshaw-1988",
+      "title": "Toward a Race-Conscious Pedagogy in Legal Education",
+      "authors": "Kimberle Crenshaw",
+      "year": 1988,
+      "type": "Article",
+      "source": "National Black Law Journal",
+      "scope": "United States",
+      "themes": [
+        "Race",
+        "Critical pedagogy",
+        "Diversity"
+      ],
+      "url": "https://escholarship.org/uc/item/8rg9k2m6",
+      "note": "A foundational intervention on race-conscious legal pedagogy."
+    },
+    {
+      "id": "stevens-law-school-1983",
+      "title": "Law School: Legal Education in America from the 1850s to the 1980s",
+      "authors": "Robert Stevens",
+      "year": 1983,
+      "type": "Book",
+      "source": "University of North Carolina Press",
+      "scope": "United States",
+      "themes": [
+        "History",
+        "Institutions",
+        "Profession"
+      ],
+      "url": "https://books.google.com/books?id=btM8AAAAIAAJ",
+      "note": "A standard institutional history of American legal education."
+    },
+    {
+      "id": "kennedy-reproduction-hierarchy-1983",
+      "title": "Legal Education and the Reproduction of Hierarchy",
+      "authors": "Duncan Kennedy",
+      "year": 1983,
+      "type": "Article/book",
+      "source": "Journal of Legal Education / NYU Press",
+      "scope": "United States",
+      "themes": [
+        "Critical legal studies",
+        "Hierarchy",
+        "Law school culture"
+      ],
+      "url": "https://jle.aals.org/home/vol32/iss4/5/",
+      "note": "A foundational critical account of law school hierarchy, ideology, and professional reproduction."
+    },
+    {
+      "id": "clinical-method-barnhizer-1979",
+      "title": "The Clinical Method of Legal Instruction: Its Theory and Implementation",
+      "authors": "David R. Barnhizer",
+      "year": 1979,
+      "type": "Article",
+      "source": "Journal of Legal Education / Cleveland-Marshall repository",
+      "scope": "United States",
+      "themes": [
+        "Clinical education",
+        "Teaching method",
+        "Experiential learning"
+      ],
+      "url": "https://engagedscholarship.csuohio.edu/fac_articles/484/",
+      "note": "An early theoretical treatment of clinical legal instruction."
+    },
+    {
+      "id": "the-law-teacher",
+      "title": "The Law Teacher",
+      "authors": "Association of Law Teachers",
+      "year": 1967,
+      "type": "Journal",
+      "source": "Taylor & Francis",
+      "scope": "United Kingdom / global",
+      "themes": [
+        "Legal education",
+        "Teaching methods",
+        "Assessment"
+      ],
+      "url": "https://www.tandfonline.com/journals/ralt20",
+      "note": "A major journal devoted to legal education and law teaching."
+    },
+    {
+      "id": "journal-of-legal-education",
+      "title": "Journal of Legal Education",
+      "authors": "Association of American Law Schools",
+      "year": 1948,
+      "type": "Journal",
+      "source": "AALS",
+      "scope": "United States / global",
+      "themes": [
+        "Legal education",
+        "Pedagogy",
+        "Profession"
+      ],
+      "url": "https://jle.aals.org/home/",
+      "note": "A leading journal for scholarship on legal education, law teaching, curriculum, and professional formation."
+    }
+  ],
   "imports": [
     {
       "id": "import-2026-06-05-chinese-research-methods",
@@ -1482,8 +2652,171 @@
       "Survey research"
     ]
   },
+  "literatureOptions": {
+    "types": [
+      "Annotated bibliography",
+      "Article",
+      "Article/book",
+      "Book",
+      "Book chapter",
+      "Book/report",
+      "Edited book",
+      "Journal",
+      "Reference entry",
+      "Report",
+      "Report series",
+      "Report/book",
+      "Teaching resource"
+    ],
+    "themes": [
+      "AI",
+      "AI literacy",
+      "Academic integrity",
+      "Access to justice",
+      "Asian legal education",
+      "Assessment",
+      "Best practices",
+      "Bibliography",
+      "Case method",
+      "Casebook classroom",
+      "Character",
+      "China",
+      "Classroom practice",
+      "Clinical education",
+      "Comparative law",
+      "Comparative legal education",
+      "Competence",
+      "Cost",
+      "Course design",
+      "Critical legal studies",
+      "Critical pedagogy",
+      "Cultural competence",
+      "Curriculum",
+      "Curriculum reform",
+      "Diversity",
+      "Empirical research",
+      "Employability",
+      "Excellent teaching",
+      "Experiential learning",
+      "Feedback",
+      "Formation",
+      "Future of legal education",
+      "Gender",
+      "Generational learning",
+      "Global legal studies",
+      "Globalization",
+      "Hierarchy",
+      "Higher education",
+      "History",
+      "Inclusive teaching",
+      "Institutions",
+      "Justice education",
+      "Langdell",
+      "Language",
+      "Law school culture",
+      "Learning environment",
+      "Learning theory",
+      "Legal academy",
+      "Legal education",
+      "Legal education policy",
+      "Legal education reform",
+      "Legal ethics",
+      "Legal practice",
+      "Legal reasoning",
+      "Legal scholarship",
+      "Legal transplants",
+      "Legal writing",
+      "Liberal legal education",
+      "Marketization",
+      "Motivation",
+      "Pedagogy",
+      "Primary sources",
+      "Pro bono",
+      "Procedure",
+      "Profession",
+      "Professional education",
+      "Professional identity",
+      "Professional practice",
+      "Professional responsibility",
+      "Professional skills",
+      "Professional training",
+      "Program design",
+      "Race",
+      "Reform",
+      "Regulation",
+      "Rhetoric",
+      "Signature pedagogy",
+      "Simulation",
+      "Social justice",
+      "Socratic method",
+      "Student engagement",
+      "Teaching method",
+      "Teaching methods",
+      "Technology",
+      "Transactional learning",
+      "Transnational law",
+      "Wellbeing",
+      "Writing across the curriculum"
+    ],
+    "scopes": [
+      "Asia / global",
+      "Asia-Pacific",
+      "Australia",
+      "Australia / New Zealand",
+      "Australia / New Zealand / global",
+      "Australia, New Zealand, United Kingdom, Canada",
+      "China",
+      "China and United States",
+      "Comparative",
+      "England and Wales",
+      "Global",
+      "Hong Kong / China / Global",
+      "Professional education",
+      "Transnational",
+      "United Kingdom",
+      "United Kingdom / global",
+      "United Kingdom and United States",
+      "United States",
+      "United States / global",
+      "United States and Canada"
+    ],
+    "years": [
+      2025,
+      2024,
+      2023,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2010,
+      2009,
+      2007,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999,
+      1997,
+      1994,
+      1992,
+      1989,
+      1988,
+      1983,
+      1979,
+      1967,
+      1948
+    ]
+  },
   "stats": {
     "sourceCount": 64,
+    "literatureCount": 73,
     "jurisdictionCount": 9,
     "themeCount": 48,
     "teachingUseCount": 11,
@@ -1527,6 +2860,48 @@
       },
       {
         "name": "Internationalization",
+        "count": 6
+      }
+    ],
+    "topLiteratureThemes": [
+      {
+        "name": "Assessment",
+        "count": 12
+      },
+      {
+        "name": "Clinical education",
+        "count": 11
+      },
+      {
+        "name": "Curriculum",
+        "count": 9
+      },
+      {
+        "name": "Pedagogy",
+        "count": 9
+      },
+      {
+        "name": "AI",
+        "count": 8
+      },
+      {
+        "name": "Professional identity",
+        "count": 8
+      },
+      {
+        "name": "Empirical research",
+        "count": 6
+      },
+      {
+        "name": "Experiential learning",
+        "count": 6
+      },
+      {
+        "name": "History",
+        "count": 6
+      },
+      {
+        "name": "Legal education",
         "count": 6
       }
     ],

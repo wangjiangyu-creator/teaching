@@ -27,6 +27,7 @@
         <div class="nav-links">
           <a href="#article">Article</a>
           <a href="#library">Corpus</a>
+          <a href="#literature">Literature</a>
           <a href="#method">Method</a>
           <a href="#publish">GitHub</a>
         </div>
@@ -47,6 +48,7 @@
           <div class="hero-actions" aria-label="Featured sections">
             <a class="button primary" href="#article">Read the argument</a>
             <a class="button secondary" href="#library">Explore the corpus</a>
+            <a class="button secondary" href="#literature">Browse literature</a>
           </div>
         </div>
         <figure class="hero-visual">
@@ -130,6 +132,42 @@
             <p class="empty-state">Select a source to view its public metadata.</p>
           </article>
         </div>
+      </section>
+
+      <section id="literature" class="literature-band" aria-labelledby="literatureTitle">
+        <div class="section-heading">
+          <p class="eyebrow">Literature</p>
+          <h2 id="literatureTitle">Legal education and teaching bibliography</h2>
+          <p class="section-intro">
+            Journal articles, books, reports, teaching resources, and journals for work on legal education,
+            law teaching, professional formation, clinical education, comparative legal education, and AI.
+          </p>
+        </div>
+
+        <div class="literature-controls" aria-label="Literature filters">
+          <label>
+            Search
+            <input id="literatureQuery" type="search" placeholder="assessment, clinical, AI, China" />
+          </label>
+          <label>
+            Type
+            <select id="literatureType"></select>
+          </label>
+          <label>
+            Theme
+            <select id="literatureTheme"></select>
+          </label>
+          <label>
+            Scope
+            <select id="literatureScope"></select>
+          </label>
+        </div>
+
+        <div class="literature-heading">
+          <h3>Materials</h3>
+          <span id="literatureCount">0 materials</span>
+        </div>
+        <div id="literatureList" class="literature-list"></div>
       </section>
 
       <section id="method" class="method-band" aria-labelledby="methodTitle">

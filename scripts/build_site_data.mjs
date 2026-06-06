@@ -5,6 +5,7 @@ import { fileURLToPath } from "node:url";
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const SOURCES_PATH = join(ROOT, "data", "sources.json");
 const IMPORTS_PATH = join(ROOT, "data", "import-runs.json");
+const LITERATURE_PATH = join(ROOT, "data", "literature.json");
 const ARTICLE_PATH = join(ROOT, "docs", "drafts", "teaching-iel-ai-geopolitics-publishable.md");
 const OUTPUT_PATH = join(ROOT, "public", "data", "site-data.json");
 
@@ -118,6 +119,30 @@ function publicSource(source) {
   };
 }
 
+function publicLiterature(item) {
+  return {
+    id: item.id,
+    title: item.title,
+    authors: item.authors,
+    year: item.year,
+    type: item.type,
+    source: item.source,
+    scope: item.scope,
+    themes: item.themes,
+    url: item.url,
+    note: item.note
+  };
+}
+
+function buildLiteratureOptions(items) {
+  return {
+    types: [...new Set(items.map((item) => item.type))].sort(),
+    themes: [...new Set(items.flatMap((item) => item.themes))].sort(),
+    scopes: [...new Set(items.map((item) => item.scope))].sort(),
+    years: [...new Set(items.map((item) => item.year))].sort((a, b) => b - a)
+  };
+}
+
 function assertNoPrivateLinks(siteData) {
   const serialized = JSON.stringify(siteData);
   const blocked = ["drive.google.com", "notebooklm.google.com", "driveUrl", "curation", "aiDraft"];
@@ -129,6 +154,9 @@ function assertNoPrivateLinks(siteData) {
 
 function buildSiteData() {
   const sources = readJson(SOURCES_PATH).map(publicSource);
+  const literature = readJson(LITERATURE_PATH)
+    .map(publicLiterature)
+    .sort((a, b) => b.year - a.year || a.title.localeCompare(b.title));
   const imports = readJson(IMPORTS_PATH).map((item) => ({
     id: item.id,
     sourceName: item.sourceName,
@@ -137,13 +165,16 @@ function buildSiteData() {
     mode: item.mode
   }));
   const options = buildOptions(sources);
+  const literatureOptions = buildLiteratureOptions(literature);
   const stats = {
     sourceCount: sources.length,
+    literatureCount: literature.length,
     jurisdictionCount: options.jurisdictions.length,
     themeCount: options.researchThemes.length,
     teachingUseCount: options.teachingUses.length,
     languageCount: options.languages.length,
     topThemes: countBy(sources, (source) => source.researchThemes).slice(0, 10),
+    topLiteratureThemes: countBy(literature, (item) => item.themes).slice(0, 10),
     topJurisdictions: countBy(sources, (source) => source.jurisdictions).slice(0, 10),
     languageBreakdown: countBy(sources, (source) => [source.language])
   };
@@ -158,8 +189,10 @@ function buildSiteData() {
     teachingUseLabels,
     article: parseArticle(),
     sources,
+    literature,
     imports,
     options,
+    literatureOptions,
     stats
   };
 }

@@ -262,6 +262,7 @@ figcaption {
 .metrics-band,
 .article-band,
 .library-band,
+.literature-band,
 .method-band,
 .publish-band {
   border-bottom: 1px solid var(--line);
@@ -270,6 +271,7 @@ figcaption {
 .metrics-band,
 .article-band,
 .library-band,
+.literature-band,
 .method-band,
 .publish-band,
 .site-footer {
@@ -279,6 +281,7 @@ figcaption {
 .metrics-band > *,
 .article-band > *,
 .library-band > *,
+.literature-band > *,
 .method-band > *,
 .publish-band > *,
 .site-footer > * {
@@ -328,7 +331,9 @@ figcaption {
 
 .metric span,
 .source-meta,
-.results-heading span {
+.results-heading span,
+.literature-heading span,
+.literature-kicker {
   color: var(--muted);
   font-size: 12px;
   font-weight: 760;
@@ -545,6 +550,87 @@ dd {
   line-height: 1.45;
 }
 
+.literature-band {
+  background: #fff;
+}
+
+.literature-controls {
+  display: grid;
+  grid-template-columns: minmax(240px, 1.4fr) repeat(3, minmax(170px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.literature-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 12px;
+}
+
+.literature-heading h3 {
+  margin-bottom: 0;
+}
+
+.literature-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.literature-item {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  gap: 14px;
+  min-width: 0;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper-warm);
+}
+
+.literature-item h3 {
+  margin-bottom: 8px;
+  font-size: 19px;
+}
+
+.literature-item p {
+  margin-bottom: 10px;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.literature-item .literature-kicker {
+  margin-bottom: 8px;
+  color: var(--amber);
+  line-height: 1.2;
+}
+
+.literature-authors {
+  color: var(--ink) !important;
+  font-weight: 760;
+}
+
+.literature-source {
+  font-size: 13px;
+}
+
+.text-link {
+  justify-self: start;
+  min-height: 34px;
+  align-content: center;
+  border-bottom: 2px solid rgba(15, 118, 110, 0.34);
+  color: var(--teal);
+  font-weight: 820;
+}
+
+.text-link:hover,
+.text-link:focus-visible {
+  border-color: var(--teal);
+  outline: none;
+}
+
 .method-band {
   background: #f2f4f3;
 }
@@ -609,6 +695,7 @@ dd {
   .hero,
   .article-layout,
   .library-shell,
+  .literature-controls,
   .publish-panel {
     grid-template-columns: 1fr;
   }
@@ -642,6 +729,7 @@ dd {
   .metrics-band,
   .article-band,
   .library-band,
+  .literature-band,
   .method-band,
   .publish-band,
   .site-footer {
@@ -663,7 +751,8 @@ dd {
 
   .metrics-grid,
   .contribution-grid,
-  .method-grid {
+  .method-grid,
+  .literature-list {
     grid-template-columns: 1fr;
   }
 

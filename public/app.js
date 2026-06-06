@@ -2,6 +2,8 @@ const state = {
   data: null,
   sources: [],
   filtered: [],
+  literature: [],
+  filteredLiterature: [],
   selectedId: null
 };
 
@@ -19,6 +21,12 @@ const els = {
   sources: document.querySelector("#sources"),
   resultCount: document.querySelector("#resultCount"),
   sourceDetail: document.querySelector("#sourceDetail"),
+  literatureQuery: document.querySelector("#literatureQuery"),
+  literatureType: document.querySelector("#literatureType"),
+  literatureTheme: document.querySelector("#literatureTheme"),
+  literatureScope: document.querySelector("#literatureScope"),
+  literatureCount: document.querySelector("#literatureCount"),
+  literatureList: document.querySelector("#literatureList"),
   heroMap: document.querySelector("#heroMap"),
   heroCaption: document.querySelector("#heroCaption"),
   themeBars: document.querySelector("#themeBars"),
@@ -147,6 +155,62 @@ function renderOptions() {
   setSelect(els.jurisdiction, options.jurisdictions, "All jurisdictions");
   setSelect(els.theme, options.researchThemes, "All themes");
   setSelect(els.language, options.languages, "All languages");
+}
+
+function renderLiteratureOptions() {
+  const options = state.data.literatureOptions;
+  setSelect(els.literatureType, options.types, "All types");
+  setSelect(els.literatureTheme, options.themes, "All themes");
+  setSelect(els.literatureScope, options.scopes, "All scopes");
+}
+
+function applyLiteratureFilters() {
+  const queryTerms = normalize(els.literatureQuery.value).split(/\s+/).filter(Boolean);
+  const type = els.literatureType.value;
+  const theme = els.literatureTheme.value;
+  const scope = els.literatureScope.value;
+
+  state.filteredLiterature = state.literature.filter((item) => {
+    const haystack = normalize([
+      item.title,
+      item.authors,
+      item.year,
+      item.type,
+      item.source,
+      item.scope,
+      item.themes.join(" "),
+      item.note
+    ].join(" "));
+
+    return matchesTerms(haystack, queryTerms)
+      && (!type || item.type === type)
+      && (!theme || item.themes.includes(theme))
+      && (!scope || item.scope === scope);
+  });
+
+  renderLiterature();
+}
+
+function renderLiterature() {
+  els.literatureCount.textContent = countLabel(state.filteredLiterature.length, "material");
+  if (state.filteredLiterature.length === 0) {
+    els.literatureList.innerHTML = `<p class="empty-state">No matching literature.</p>`;
+    return;
+  }
+
+  els.literatureList.innerHTML = state.filteredLiterature.map((item) => `
+    <article class="literature-item">
+      <div class="literature-item-main">
+        <p class="literature-kicker">${escapeHtml(item.type)} / ${escapeHtml(item.year)}</p>
+        <h3>${escapeHtml(item.title)}</h3>
+        <p class="literature-authors">${escapeHtml(item.authors)}</p>
+        <p class="literature-source">${escapeHtml(item.source)} / ${escapeHtml(item.scope)}</p>
+        <p>${escapeHtml(item.note)}</p>
+        <div class="chips muted">${tokenList(item.themes, "chip muted")}</div>
+      </div>
+      <a class="text-link" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">Open source</a>
+    </article>
+  `).join("");
 }
 
 function renderSources() {
@@ -312,17 +376,25 @@ async function init() {
   state.data = await response.json();
   state.sources = state.data.sources;
   state.filtered = state.sources;
+  state.literature = state.data.literature ?? [];
+  state.filteredLiterature = state.literature;
   state.selectedId = state.sources[0]?.id ?? null;
 
   renderMetrics();
   renderArticle();
   renderPublishFacts();
   renderOptions();
+  renderLiteratureOptions();
   renderHeroMap();
   applyFilters();
+  applyLiteratureFilters();
 
   for (const element of [els.query, els.teachingUse, els.jurisdiction, els.theme, els.language]) {
     element.addEventListener("input", applyFilters);
+  }
+
+  for (const element of [els.literatureQuery, els.literatureType, els.literatureTheme, els.literatureScope]) {
+    element.addEventListener("input", applyLiteratureFilters);
   }
 
   window.addEventListener("resize", () => {
